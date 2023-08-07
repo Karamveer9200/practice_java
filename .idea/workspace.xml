@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="566c226c-dbd8-4ae1-a3cd-8b59ef09b4ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/conditioinals_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/conditioinals_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/conditionals_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/conditionals_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/conditionals_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/conditionals_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/loops_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/loops_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/operators_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/operators_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/operators_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/operators_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/string_methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/string_methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/strings_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/basics/strings_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/bin_dec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/bin_dec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/bin_hex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/bin_hex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/bin_oct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/bin_oct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/conv_dec_bin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/conv_dec_bin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/conversion_all.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/conversion_all.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/conversions/numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/strings/string_p_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/practice/strings/string_p_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/problems/problem_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/problems/problem_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/Marks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/Marks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/Marks_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/Marks_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/School.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/compute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/compute.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/compute_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/compute_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello world/beginning/basics/report_card/input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/conditioinals_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/conditioinals_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/conditionals_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/conditionals_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/conditionals_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/loops_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/loops_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/operators_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/operators_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/operators_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/operators_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/string_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/string_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/strings_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/strings_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_dec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_hex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_oct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_oct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conv_dec_bin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conv_dec_bin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conversion_all.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conversion_all.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/strings/string_p_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/practice/strings/string_p_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/problems/problem_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/problems/problem_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/report_card/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/report_card/compute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/compute_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/report_card/compute_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/report_card/input.java" afterDir="false" />
-    </list>
+    <list default="true" id="566c226c-dbd8-4ae1-a3cd-8b59ef09b4ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
