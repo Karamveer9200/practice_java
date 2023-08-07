@@ -14,6 +14,7 @@ public class conditioinals_01 {
         // ==, >=, <=, >, <, != are all relational (boolean) operators
 
         /* other way
+
         boolean = (age>=18);
         if (cond){      // if cond = true, if statement will execute ,otherwise else.
               System.out.println("congrats, you can drive!! ");
