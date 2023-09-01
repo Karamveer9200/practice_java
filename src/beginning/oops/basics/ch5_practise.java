@@ -57,6 +57,8 @@ public class ch5_practise {
 //            System.out.printf("\n%d X %d = %d",n,i,n*i);// if using %d(c lang) use 'printf'
 //        }
 //
-
+//----------------------------------------------------------
+// practise problem 5 - 
+//----------------------------------------------------------
     }
 }

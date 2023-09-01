@@ -5,52 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
-      <change afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch5_break_and_continue_using_loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/conditioinals_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/conditionals_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/conditionals_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/loops_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/operators_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/operators_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/string_methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/strings_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/bin_dec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/bin_hex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/bin_oct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/conv_dec_bin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/conversion_all.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/strings/string_p_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/problems/problem_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/Marks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/Marks_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/compute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/compute_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditioinals_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch1_conditioinals_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditionals_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch1_conditionals_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch1_conditionals_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch2_string_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch2_string_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch2_strings_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch2_strings_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch3_operators_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch3_operators_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch3_operators_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch3_operators_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch4_loops_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch4_loops_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch5_break_and_continue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/bin_dec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/bin_hex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_oct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/bin_oct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conv_dec_bin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/conv_dec_bin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conversion_all.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/conversion_all.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/strings/string_p_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/strings/string_p_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/problems/problem_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/problems/problem_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/Marks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/Marks_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/compute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/compute_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/compute_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch5_practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch5_practise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
