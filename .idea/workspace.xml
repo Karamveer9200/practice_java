@@ -5,18 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch5_break_and_continue_using_loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/loops_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/loops_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch4_loops_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch4_loops_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/conditioinals_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditioinals_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/conditionals_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditionals_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditionals_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/loops_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/operators_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch3_operators_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/operators_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch3_operators_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/string_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch2_string_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/strings_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/basics/basics/ch2_strings_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/conditioinals_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/conditionals_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/conditionals_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/loops_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/operators_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/operators_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/string_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/basics/strings_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/bin_dec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/bin_hex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/bin_oct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/conv_dec_bin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/conversion_all.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/conversions/numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/practice/strings/string_p_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/problems/problem_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/Marks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/Marks_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/compute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/compute_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/basics/report_card/input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditioinals_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch1_conditioinals_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditionals_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch1_conditionals_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch1_conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch1_conditionals_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch2_string_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch2_string_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch2_strings_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch2_strings_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch3_operators_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch3_operators_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch3_operators_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch3_operators_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch4_loops_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch4_loops_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/basics/ch5_break_and_continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/bin_dec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/bin_hex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/bin_oct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/bin_oct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conv_dec_bin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/conv_dec_bin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/conversions/conversion_all.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/conversions/conversion_all.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/practice/strings/string_p_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/practice/strings/string_p_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/problems/problem_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/problems/problem_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/Marks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/Marks_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/Marks_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/compute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/compute_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/compute_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/basics/report_card/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/report_card/input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +80,12 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/beginning/oops/basics/ch5_practise.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="sortByName" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -68,13 +108,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch4_loops_02">
+  <component name="RunManager" selected="Application.ch5_practise">
     <configuration name="ch4_loops_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.basics.basics.ch4_loops_02" />
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch4_loops_02" />
       <module name="hello world" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginning.basics.basics.*" />
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch5_break_and_continue_using_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_break_and_continue_using_loops" />
+      <module name="hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch5_practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_practise" />
+      <module name="hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="problem_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.basics.problems.problem_01" />
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.problems.problem_01" />
       <module name="hello world" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginning.basics.problems.*" />
+          <option name="PATTERN" value="beginning.oops.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch5_practise" />
+        <item itemvalue="Application.ch5_break_and_continue_using_loops" />
         <item itemvalue="Application.ch4_loops_02" />
         <item itemvalue="Application.problem_01" />
       </list>
