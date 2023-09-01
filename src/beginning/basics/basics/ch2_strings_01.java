@@ -1,6 +1,6 @@
 package beginning.basics.basics;
 import java.util.Scanner;
-public class strings_01 {
+public class ch2_strings_01 {
     public static void main(String[] args) {
       /*  String mc;
         mc = new String("shoes");// this is one way to register a string (creating object)

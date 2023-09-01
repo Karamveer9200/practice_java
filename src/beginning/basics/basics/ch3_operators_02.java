@@ -1,6 +1,6 @@
 package beginning.basics.basics;
 
-public class operators_02 {
+public class ch3_operators_02 {
     public static void main(String[] args){
         // Precedence and associativity
         int x = 6*5-34/2;

@@ -1,6 +1,6 @@
 package beginning.basics.basics;
 import java.util.Scanner;
-public class conditioinals_01 {
+public class ch1_conditioinals_01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter your age ");

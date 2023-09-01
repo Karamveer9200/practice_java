@@ -1,6 +1,6 @@
 package beginning.basics.basics;
 import java.util.Scanner;
-public class conditionals_02 {
+public class ch1_conditionals_02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         /*char l_0;             // this problem could be solved via array
