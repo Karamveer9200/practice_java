@@ -1,7 +1,7 @@
 package beginning.oops.basics;
-import java.util.Scanner;
+ import java.util.Scanner;
 
-public class ch5_practise {
+public class ch5_practise_loops {
     public static void main(String[] args) {
 //----------------------------------------------------------
 // practise problem 1 - pattern
@@ -58,7 +58,22 @@ public class ch5_practise {
 //        }
 //
 //----------------------------------------------------------
-// practise problem 5 - 
+// practise problem 5 - factorial of n numbers using while loop
 //----------------------------------------------------------
+//        factorial 5!= 1x2x3x4x5
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter the value of n");
+        int n = sc.nextInt();
+        int i = 1;
+        int fact =1;
+
+        do {
+            fact = fact*i;
+            i++;
+        }
+        while (i<=n);
+        System.out.printf("factorial of %d (%d!) is %d",n ,n, fact);
+
     }
 }
