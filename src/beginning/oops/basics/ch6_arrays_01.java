@@ -10,7 +10,7 @@ public class ch6_arrays_01 {
         int[]marks;
 
         object creation below:-
-        int[]marks = new int[499] (memory allocation 500);
+        int[]marks = new int[500] (memory allocation 500);
         */
 
         //----------------------------------------------------------

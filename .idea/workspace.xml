@@ -5,36 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/No Reward_learn to know.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch1_conditioinals_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch1_conditionals_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch1_conditionals_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch2_string_methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch2_strings_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch3_operators_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch3_operators_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch4_loops_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch5_break_and_continue_using_loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch5_practise_loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch6_arrays_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch6_arrays_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/conversions/bin_dec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/conversions/bin_hex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/conversions/bin_oct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/conversions/conv_dec_bin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/conversions/conversion_all.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/conversions/numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/practice/strings/string_p_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/problems/problem_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/report_card/Marks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/report_card/Marks_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/report_card/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/report_card/compute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/report_card/compute_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/report_card/input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/0_shortcuts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,31 +55,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "testing",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ch6_arrays_02">
-    <configuration name="ch4_loops_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch4_loops_02" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.ch6_practise_arrays">
     <configuration name="ch5_break_and_continue_using_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_break_and_continue_using_loops" />
       <module name="No Reward_learn to know" />
@@ -158,25 +119,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="ch6_arrays_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch6_arrays_03" />
       <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="ch6_practise_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch6_practise_arrays" />
       <module name="No Reward_learn to know" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch6_practise_arrays" />
+        <item itemvalue="Application.ch6_arrays_03" />
         <item itemvalue="Application.ch6_arrays_01" />
         <item itemvalue="Application.ch5_practise_loops" />
         <item itemvalue="Application.ch5_break_and_continue_using_loops" />
-        <item itemvalue="Application.ch4_loops_02" />
       </list>
     </recent_temporary>
   </component>
