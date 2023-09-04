@@ -1,6 +1,6 @@
 package beginning.oops.basics;
 import java.util.Scanner;
-public class ch2_string_methods {
+public class ch3_string_methods {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int value;

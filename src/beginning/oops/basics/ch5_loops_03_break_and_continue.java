@@ -1,6 +1,6 @@
 package beginning.oops.basics;
 
-public class ch5_break_and_continue_using_loops {
+public class ch5_loops_03_break_and_continue {
     public static void main(String[] args) {
     //break and continue in loops / or by using loops
 

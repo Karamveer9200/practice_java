@@ -1,6 +1,6 @@
 package beginning.oops.basics;
 
-public class ch4_loops_02 {
+public class ch5_loops_02 {
     public static void main(String[] args) {
      // # incremental for loop
 

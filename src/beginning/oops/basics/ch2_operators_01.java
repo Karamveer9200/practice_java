@@ -2,7 +2,7 @@ package beginning.oops.basics;
 
 import java.util.Scanner;
 
-public class ch3_operators_01 {
+public class ch2_operators_01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");

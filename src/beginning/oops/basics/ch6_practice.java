@@ -2,7 +2,7 @@ package beginning.oops.basics;
 
 import java.util.Scanner;
 
-public class ch6_practise_arrays {
+public class ch6_practice {
     public static void main(String[] args) {
 //----------------------------------------------------------
         // problem 1 - create an array of 5 floats and calc their sum

@@ -1,6 +1,6 @@
 package beginning.oops.basics;
 import java.util.Scanner;
-public class ch1_conditionals_03 {
+public class ch4_conditionals_03 {
     public static void main(String[] args) {
         // switch case
         Scanner sc = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package beginning.oops.basics;
  import java.util.Scanner;
 
-public class ch5_practise_loops {
+public class ch5_practice {
     public static void main(String[] args) {
 //----------------------------------------------------------
 // practise problem 1 - pattern
