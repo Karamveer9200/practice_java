@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/0_shortcuts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_arrays_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch6_practise_arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch6_practise_arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_practise_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch6_practise_arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +65,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch6_practise_arrays">
-    <configuration name="ch5_break_and_continue_using_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_break_and_continue_using_loops" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ch7_methods_01">
     <configuration name="ch5_practise_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_practise_loops" />
       <module name="No Reward_learn to know" />
@@ -145,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch7_methods_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch7_methods_01" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch7_methods_01" />
         <item itemvalue="Application.ch6_practise_arrays" />
         <item itemvalue="Application.ch6_arrays_03" />
         <item itemvalue="Application.ch6_arrays_01" />
         <item itemvalue="Application.ch5_practise_loops" />
-        <item itemvalue="Application.ch5_break_and_continue_using_loops" />
       </list>
     </recent_temporary>
   </component>

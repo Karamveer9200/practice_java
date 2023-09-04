@@ -116,7 +116,126 @@ public class ch6_practise_arrays {
 //        }
 
 //----------------------------------------------------------
-        // problem 5 - reverse an array
-        
+        // problem 5 - reverse an array (2 arrays)
+        // way 1
+
+//        int[] num = new int[5];
+//        int[] temp= new int[5];
+//        int rev = num.length;
+//        Scanner sc = new Scanner(System.in);
+//
+//
+//        System.out.println("ENTER 5 integers in an array");
+//        for (int i=0; i<num.length; i++) {  // *array indexing always starts from 0 not 1, otherwise it will go out of bounds
+//            num[i]= sc.nextInt();
+//            temp[rev]= num[i];
+//            rev--;
+//        }
+//        System.out.println("Reversed array");
+//        for (int i=0; i<num.length; i++) {
+//            System.out.print(" "+temp[i]);
+//        }
+
+        // way 2 (reversing the same array)
+//        int[] arr = new int[5];
+//        int temp;
+//        Scanner sc = new Scanner(System.in);
+//        //Input
+//        System.out.println("ENTER 5 integers in an array");
+//        for (int i=0; i<arr.length; i++) {  // *array indexing always starts from 0 not 1, otherwise it will go out of bounds
+//            arr[i]= sc.nextInt();
+//        }
+//
+//        // finding midpoint of an array
+//        int mid = Math.floorDiv(arr.length, 2); // this fun will give the highest value integer
+//        int l = arr.length;
+//
+//        // swapping
+//        for (int i=0; i<mid; i++) {
+//            //* swap a[i] and a[l-1-i]  till midpoint of the array
+//            //  a    b   temp
+//            // | |  |4|   |3|
+//            //  \---->----/
+//            temp = arr[i];
+//            arr[i] = arr[l-1-i]; // 5-1-0 = 4 : arr[4]->last element
+//            arr[l-1-i] = temp;
+//        }
+//        System.out.println("length "+l);
+//        System.out.println("Reversed array");
+//        for (int i=0; i<arr.length; i++) {
+//            System.out.print(" " + arr[i]);
+//        }
+
+
+//----------------------------------------------------------
+        // problem 6 - finding the biggest element in an array
+//
+//        int[] arr = new int[5];
+//        int max=Integer.MIN_VALUE;
+//        Scanner sc = new Scanner(System.in);
+//        //Input
+//        System.out.println("ENTER 5 integers in an array");
+//        for (int i=0; i<arr.length; i++) {  // *array indexing always starts from 0 not 1, otherwise it will go out of bounds
+//            arr[i]= sc.nextInt();
+//        }
+//
+//        // Finding the biggest number
+//        for (int len : arr) {
+//            if (len>max) {
+//                max=len;
+//            }
+//        }
+//        System.out.println("The biggest integer is "+max);
+
+
+//----------------------------------------------------------
+        // problem 6 - finding the smallest element in an array
+
+//        int[] arr = new int[5];
+//
+//        Scanner sc = new Scanner(System.in);
+//        //Input
+//        System.out.println("ENTER 5 integers in an array");
+//        for (int i=0; i<arr.length; i++) {  // *array indexing always starts from 0 not 1, otherwise it will go out of bounds
+//            arr[i]= sc.nextInt();
+//        }
+//
+//        // Finding the biggest number
+//        int min= Integer.MAX_VALUE; // fun. gives the maximum value possible for int
+//        for (int len : arr) {
+//            if (len<min) {
+//                min=len;
+//            }
+//        }
+//        System.out.println("The smallest integer is "+min);
+
+//----------------------------------------------------------
+        // problem 7 - Check if the array is sorted or not
+
+        int[] arr = new int[5];
+
+        //Input
+        Scanner sc = new Scanner(System.in);
+        System.out.println("ENTER 5 integers in an array");
+        for (int i = 0; i < arr.length; i++) {  // *array indexing always starts from 0 not 1, otherwise it will go out of bounds
+            arr[i] = sc.nextInt();
+        }
+
+        // Checking if the array is sorted
+        // sorted  = {1,2,3,4,5}
+        // unsorted = {3,4,5,1,2}
+        boolean issoted = true;
+        for (int i = 0; i < arr.length-1; i++) {
+            // length-1 .: arr[i+1] will go out of bound as there is no 6th element
+            if (arr[i] > arr[i + 1]) {
+                issoted = false;
+                break;
+            }
+        }
+        if (issoted) {
+            System.out.println("Array is sorted");
+        } else {
+            System.out.println("Array is not sorted");
+        }
     }
 }
