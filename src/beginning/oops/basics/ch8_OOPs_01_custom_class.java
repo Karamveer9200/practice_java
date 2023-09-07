@@ -16,6 +16,7 @@ class Employee{
         System.out.println("My name is "+ name);
     }
     public int getSalary(){ // method 2 (behaviour)
+
         return salary*1000;
     }
 }
