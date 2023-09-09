@@ -6,7 +6,7 @@ package beginning.oops.basics;
 
 // properties/Attributes       (phone) - color, material, shape
 // Behavior/Methods/Functions  (phone) - calculator, camera, calling, running apps
-class Employee{
+ class Employee{ // if we make this class 'public', it will become a different.java file
     int id; // attribute 1 (property)
     int salary;
     String name; // attribute 2 (property)
@@ -21,7 +21,7 @@ class Employee{
     }
 }
 
-public class ch8_OOPs_01_custom_class { // only one class can be 'PUBLIC'
+public class ch8_OOPs_01_custom_class {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
         Employee harry = new Employee(); // Instantiating a new Employee Object

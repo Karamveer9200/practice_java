@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
+      <change afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch9_practice_pending.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/0_Shortcuts_Ide" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/0_Shortcuts_Ide" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch8_OOPs_01_custom_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch8_OOPs_01_custom_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch8_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch8_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch9_practice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,61 +74,100 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch9_exercise_guess_the_number (4)">
+  <component name="RunManager" selected="Application.ch10_inheritance_03_constructor_overloading (1)">
+    <configuration name="ch10_inheritance_02_constructors (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_02_constructors" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_inheritance_02_constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_02_constructors" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_inheritance_02_constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_02_constructors" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_inheritance_03_constructor_overloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_03_constructor_overloading" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_inheritance_03_constructor_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_03_constructor_overloading" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_inheritance_03_constructor_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_03_constructor_overloading" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_inheritance_03_constructor_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_03_constructor_overloading" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ch6_arrays_02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch6_arrays_02" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch8_practice (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch8_practice" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch8_practice (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch8_practice" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch8_practice (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch8_practice" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch9_exercise_guess_the_number (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch9_exercise_guess_the_number" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -164,39 +205,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch9_exercise_guess_the_number (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch9_exercise_guess_the_number" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch9_exercise_guess_the_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch9_exercise_guess_the_number" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch9_exercise_guess_the_number (4)" />
-        <item itemvalue="Application.ch9_exercise_guess_the_number (3)" />
-        <item itemvalue="Application.ch9_exercise_guess_the_number (2)" />
-        <item itemvalue="Application.ch9_exercise_guess_the_number (1)" />
-        <item itemvalue="Application.ch9_exercise_guess_the_number" />
+        <item itemvalue="Application.ch10_inheritance_03_constructor_overloading (1)" />
+        <item itemvalue="Application.ch10_inheritance_03_constructor_overloading (2)" />
+        <item itemvalue="Application.ch10_inheritance_03_constructor_overloading (1)" />
+        <item itemvalue="Application.ch10_inheritance_03_constructor_overloading" />
+        <item itemvalue="Application.ch10_inheritance_02_constructors (2)" />
       </list>
     </recent_temporary>
   </component>
