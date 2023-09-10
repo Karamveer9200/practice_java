@@ -18,7 +18,7 @@ class derived extends base{
         System.out.println("I am a derived class constructor");
     }
 }
-public class ch10_inheritance_02_constructors {
+public class ch10_0_inheritance_02_constructors {
     public static void main(String[] args) {
         // constructor of the base class executes before the constructor of derived class
         derived dc = new derived();

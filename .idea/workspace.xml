@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
-      <change afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_this_keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_4_method_overriding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/base1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/base1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch10_inheritance_03_constructor_overloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch10_inheritance_03_constructor_overloading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/child_of_derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/child_of_derived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/derived1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/derived1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_this_and_super_keyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_inheritance_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_0_inheritance_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_inheritance_02_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_0_inheritance_02_constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_inheritance_03_constructor_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_0_inheritance_03_constructor_overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_method_overriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_super_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_6_super_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_this_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_5_this_keyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,21 +65,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/hello world&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Plugins Suggestion": "Plugin suggestions available",
+    "Notification.DoNotAsk-Plugins Suggestion": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "testing",
+    "last_opened_file_path": "/home/karamveer-thinkpad/hello world",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
-  <component name="RunManager" selected="Application.ch10_super_keyword (1)">
-    <configuration name="ch10_inheritance_02_constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_02_constructors" />
+}]]></component>
+  <component name="RunManager" selected="Application.ch10_6_method_overriding">
+    <configuration name="ch10_4_method_overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_4_method_overriding" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -90,21 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_inheritance_03_constructor_overloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_03_constructor_overloading" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch10_inheritance_03_constructor_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_inheritance_03_constructor_overloading" />
+    <configuration name="ch10_6_method_overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_6_method_overriding" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_super_keyword (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_super_keyword" />
+    <configuration name="ch10_method_overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_method_overriding" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -168,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_this_and_super_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_this_and_super_keyword" />
+    <configuration name="ch10_super_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_super_keyword" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -196,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch10_6_method_overriding" />
+        <item itemvalue="Application.ch10_4_method_overriding" />
+        <item itemvalue="Application.ch10_method_overriding" />
         <item itemvalue="Application.ch10_super_keyword (1)" />
         <item itemvalue="Application.ch10_super_keyword" />
-        <item itemvalue="Application.ch10_this_and_super_keyword" />
-        <item itemvalue="Application.ch10_inheritance_03_constructor_overloading (1)" />
-        <item itemvalue="Application.ch10_inheritance_03_constructor_overloading (1)" />
       </list>
     </recent_temporary>
   </component>

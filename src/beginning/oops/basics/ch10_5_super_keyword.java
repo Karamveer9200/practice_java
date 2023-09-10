@@ -20,7 +20,7 @@ class class2 extends class1{
         System.out.println("i am a class2 constructor");
     }
 }
-public class ch10_super_keyword {
+public class ch10_5_super_keyword {
     public static void main(String[] args) {
         class2 ch = new class2(20);
     }

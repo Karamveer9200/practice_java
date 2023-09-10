@@ -25,7 +25,7 @@ class test {
         System.out.println(i);
     }
 }
-public class ch10_this_keyword {
+public class ch10_4_this_keyword {
     public static void main(String[] args) {
         test t = new test();
         t.setValue(50);

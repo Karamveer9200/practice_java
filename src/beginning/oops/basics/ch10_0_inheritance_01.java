@@ -36,7 +36,7 @@ class subclass extends superclass{ // used keyword 'extends' to derive to inheri
     }
 
 }
-public class ch10_inheritance_01 {
+public class ch10_0_inheritance_01 {
     public static void main(String[] args) {
 
         // creating an object of subclass

@@ -34,7 +34,7 @@ class child_of_derived extends derived1 {
 }
 
 
-public class ch10_inheritance_03_constructor_overloading {
+public class ch10_0_inheritance_03_constructor_overloading {
     public static void main(String[] args) {
         // constructor of the base class executes before the constructor of derived class
 //        derived1 empty1 = new derived1();
