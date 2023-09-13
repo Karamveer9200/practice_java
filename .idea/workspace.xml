@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
+      <change afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch11_6_polymorphism_in_interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch10_7_dynamic_method_dispatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch10_7_dynamic_method_dispatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_8_exercise_online_library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch10_8_exercise_online_library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch11_6_polymorphism_in_interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch11_6_polymorphism_in_interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Base_Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Base_Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Phone1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Phone1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Phone2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Phone2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Phone3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/Phone3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch11_0_abstract_class_and_method.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/beginning/oops/basics/ch11_0_abstract_class_and_method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch11_0_abstract_class_and_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch11_0_abstract_class_and_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch11_6_polymorphism_in_interfaces.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +81,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ch11_5_inheritance_in_interfaces (1)">
+  <component name="RunManager" selected="Application.ch11_practice (1)">
     <configuration name="ch10_practice (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_practice" />
       <module name="No Reward_learn to know" />
@@ -168,46 +173,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch11_4_default_methods_and_interface_examples (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_4_default_methods_and_interface_examples" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch11_4_default_methods_and_interface_examples (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_4_default_methods_and_interface_examples" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch11_4_default_methods_and_interface_examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_4_default_methods_and_interface_examples" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch11_5_inheritance_in_interfaces (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ch11_5_inheritance_in_interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_5_inheritance_in_interfaces" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
@@ -233,13 +199,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch11_6_polymorphism_in_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_6_polymorphism_in_interface" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch11_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_practice" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch11_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_practice" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch11_practice (1)" />
+        <item itemvalue="Application.ch11_practice" />
+        <item itemvalue="Application.ch11_6_polymorphism_in_interface" />
         <item itemvalue="Application.ch11_5_inheritance_in_interfaces (1)" />
         <item itemvalue="Application.ch11_5_inheritance_in_interfaces" />
-        <item itemvalue="Application.ch11_4_default_methods_and_interface_examples (2)" />
-        <item itemvalue="Application.ch11_4_default_methods_and_interface_examples (1)" />
-        <item itemvalue="Application.ch11_4_default_methods_and_interface_examples" />
       </list>
     </recent_temporary>
   </component>

@@ -5,6 +5,7 @@ package beginning.oops.basics;
 // Abstract Method:
 // A method that is declared without an implementation
 //            abstract void moveTo(double z, double y)
+// -- one abstract method will turn whole class abstract
 
 // Abstract Class:
 // it sets the standards for all its subclasses
