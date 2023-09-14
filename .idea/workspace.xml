@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="nothing significant">
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/hello world/beginning/oops/basics/ch5_practise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginning/oops/basics/ch5_practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginning/oops/basics/ch5_practise_loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,10 +39,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/beginning/oops/basics/ch5_practise_loops.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/beginning/oops/basics/ch11_4_default_methods_and_interface_examples.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
     <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -54,21 +59,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "testing",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Plugins Suggestion&quot;: &quot;Plugin suggestions available&quot;,
+    &quot;Notification.DoNotAsk-Plugins Suggestion&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/Documents/Megasync/java_basics/intellij idea/hello world&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ch6_arrays_01">
-    <configuration name="ch4_loops_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch4_loops_02" />
-      <module name="hello world" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="oops_java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Marks">
+    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.report_card.Marks" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs_java.report_card.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_0_inheritance_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch10_0_inheritance_01" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_practice" />
+      <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="beginning.oops.basics.*" />
@@ -79,9 +118,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch5_break_and_continue_using_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_break_and_continue_using_loops" />
-      <module name="hello world" />
+    <configuration name="ch10_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_practice" />
+      <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="beginning.oops.basics.*" />
@@ -92,9 +131,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch5_practise_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch5_practise_loops" />
-      <module name="hello world" />
+    <configuration name="ch11_5_inheritance_in_interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_5_inheritance_in_interfaces" />
+      <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="beginning.oops.basics.*" />
@@ -105,9 +144,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch6_arrays_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch6_arrays_01" />
-      <module name="hello world" />
+    <configuration name="ch11_6_polymorphism_in_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_6_polymorphism_in_interface" />
+      <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="beginning.oops.basics.*" />
@@ -118,12 +157,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.problems.problem_01" />
-      <module name="hello world" />
+    <configuration name="ch11_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_practice" />
+      <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginning.oops.problems.*" />
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch11_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_practice" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch2_operators_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch2_operators_02" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs_java.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch6_arrays_01" />
-        <item itemvalue="Application.ch5_practise_loops" />
-        <item itemvalue="Application.ch5_break_and_continue_using_loops" />
-        <item itemvalue="Application.ch4_loops_02" />
-        <item itemvalue="Application.problem_01" />
+        <item itemvalue="Application.Marks" />
+        <item itemvalue="Application.ch2_operators_02" />
+        <item itemvalue="Application.ch10_0_inheritance_01" />
+        <item itemvalue="Application.ch11_practice" />
+        <item itemvalue="Application.ch11_6_polymorphism_in_interface" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691437612186</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1694383986379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694383986380</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +307,7 @@
     <MESSAGE value="did some changes" />
     <MESSAGE value="added output path" />
     <MESSAGE value="nothing significant" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing significant" />
+    <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed chapter numbering ch10, added ch10_7" />
   </component>
 </project>
