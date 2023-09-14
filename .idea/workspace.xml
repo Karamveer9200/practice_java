@@ -6,37 +6,66 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch10_Inheritance.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch10_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch11_Abstract Classes.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch11_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch12_Packages.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch12_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch13_Multi-Threading.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch13_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch14_Errors_&amp;_Exceptions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch14_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch15_Advaced_JAVA.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch1_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch1_Variables&amp;Datatypes.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch2_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch2_operators.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch3_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch3_Strings.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch4_Conditionals.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch4_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch5 _Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch5_loops.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch6_Arrays.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch6_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch7_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch7_methods.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch8_OOPs_intro.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch8_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch9_Access_modifiers_&amp;_Constructors.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/Ch9_Practice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes_pdf/ch0_IntroToJava.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_practice_ch12_and_ch13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch10_Inheritance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch10_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch11_Abstract Classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch11_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch12_Packages.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch12_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch13_Multi-Threading.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch13_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch14_Errors_&amp;_Exceptions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch14_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch15_Advaced_JAVA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch1_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch1_Variables&amp;Datatypes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch2_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch2_operators.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch3_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch3_Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch4_Conditionals.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch4_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch5 _Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch5_loops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch6_Arrays.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch6_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch7_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch7_methods.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch8_OOPs_intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch8_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch9_Access_modifiers_&amp;_Constructors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/Ch9_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled_src/production/No Reward_learn to know/Notes_pdf/ch0_IntroToJava.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch10_Inheritance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch10_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch11_Abstract Classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch11_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch12_Packages.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch12_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch13_Multi-Threading.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch13_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch14_Errors_&amp;_Exceptions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch14_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch15_Advaced_JAVA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch1_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch1_Variables&amp;Datatypes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch2_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch2_operators.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch3_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch3_Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch4_Conditionals.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch4_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch5 _Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch5_loops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch6_Arrays.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch6_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch7_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch7_methods.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch8_OOPs_intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch8_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch9_Access_modifiers_&amp;_Constructors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/Ch9_Practice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Notes_pdf/ch0_IntroToJava.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
