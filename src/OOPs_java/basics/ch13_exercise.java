@@ -10,7 +10,8 @@ package OOPs_java.basics;
 
 public class ch13_exercise {
     public static void main(String[] args) {
-        System.out.println("pending ...");
+        // run in terminal
+        System.out.println("Done - check package texteditor_programs");
 
     }
 }

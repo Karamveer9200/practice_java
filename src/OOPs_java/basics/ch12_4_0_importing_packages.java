@@ -3,7 +3,7 @@ package OOPs_java.basics;
 // Ways to Import packages:
 // 1. Using 'import' keyword:
 
-// import java.util.scanner; ---> used 'full address' to import scanner class specifically
+// import java.util.Scanner; ---> used 'full address' to import scanner class specifically
 // import java.util.*;       ---> used '*' to import all the classes inside util package
 
 //2. Importing a specific class during object creation:
