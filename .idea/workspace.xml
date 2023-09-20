@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_2_handling_specific_exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_2_handling_specific_exceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_2_handling_specific_exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_2_handling_specific_exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "testing",
-    "last_opened_file_path": "/home/karamveer-thinkpad/Documents/Source_code(Sync)/java_basics/intellij idea/hello world",
+    "last_opened_file_path": "/home/karamveer-thinkpad/Documents/Source_code(Sync)/java_basics/intellij idea/hello java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
