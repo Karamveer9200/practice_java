@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_2_handling_specific_exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_2_handling_specific_exceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_3_nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_3_nested_try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_3_nested_try_catch.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_3_nested_try_catch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_4_exception_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_4_exception_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_01_custom_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_01_class_and_object_creation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,20 +81,7 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch15_3_nested_try_catch">
-    <configuration name="ch14_thread_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch14_thread_01" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ch15_4_exception_class">
     <configuration name="ch15_1_try_and_catch_block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_1_try_and_catch_block" />
       <module name="No Reward_learn to know" />
@@ -133,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="login (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Others.practice.methods.login" />
+    <configuration name="ch15_4_exception_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_4_exception_class" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Others.practice.methods.*" />
+          <option name="PATTERN" value="OOPs_java.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch15_4_exception_class" />
         <item itemvalue="Application.ch15_3_nested_try_catch" />
         <item itemvalue="Application.ch15_2_handling_specific_exceptions" />
         <item itemvalue="Application.ch15_1_try_and_catch_block" />
         <item itemvalue="Application.login" />
-        <item itemvalue="Application.login (2)" />
       </list>
     </recent_temporary>
   </component>

@@ -21,11 +21,18 @@ package OOPs_java.basics;
     }
 }
 
-public class ch8_OOPs_01_custom_class {
+public class ch8_OOPs_01_class_and_object_creation {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
-        Employee harry = new Employee(); // Instantiating a new Employee Object
-        Employee ram = new Employee();
+
+        // Instantiating a new Employee Object
+
+        //Employee harry;
+        //harry = new Employee();        // same thing as below
+
+        Employee harry = new Employee(); // LHS(reference) = RHS(object)
+        Employee ram = new Employee();   // an object is created even without a reference (computer knows its location)
+                                         // we create a reference to use the object later (like a home address to send and receive mail)
 
         // Setting attributes for Harry
         harry.id = 12;
