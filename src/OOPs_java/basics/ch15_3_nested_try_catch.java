@@ -27,7 +27,8 @@ public class ch15_3_nested_try_catch {
                 }
                 catch (InputMismatchException e) { //for wrong datatype
                     System.out.println("Invalid input!");
-                    System.out.println(e);
+                    // dc.nextLine(); will consume the invalid input, to avoid infinite loop
+                    dc.nextLine();
                 }
 
             } catch (Exception e) { // initial catch (if exception is not caught inside the nested try-catch block)

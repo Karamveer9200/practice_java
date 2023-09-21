@@ -45,3 +45,5 @@ public class ch15_1_try_and_catch_block {
 
     }
 }
+// --- IMPORTANT ---
+// 'try' block cannot function alone, it must be used with 'catch' or 'finally' block

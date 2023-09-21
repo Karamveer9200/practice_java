@@ -6,7 +6,7 @@ package OOPs_java.basics;
 // incremented by 1 till the number of arguments is equaled to 1000. Do you think that it is
 // good practice to overload a method 1000 times?
 //To solve this problem of method overloading, Variable Arguments(Varargs) were introduced with the release of JDK 5.
-public class ch7_methods_03_Variable_Arguments {
+public class ch7_methods_03_variable_arguments {
 /*
 public static void foo(int … arr)
 {

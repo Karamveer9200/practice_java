@@ -6,9 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_3_nested_try_catch.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_3_nested_try_catch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_4_exception_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_4_exception_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_01_custom_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_01_class_and_object_creation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/MaxAgeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/MaxAgeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch13_access_modifiers_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch13_access_modifiers_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_4_exception_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_4_exception_class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch8_OOPs_01_custom_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/using_access_modifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/using_access_modifiers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_access_modifiers_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_access_modifiers_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_1_try_and_catch_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_1_try_and_catch_block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_3_nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_3_nested_try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_5_throw_vs_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_5_throw_vs_throws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_03_Variable_Arguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_03_variable_arguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_04_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_04_recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +91,9 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch15_4_exception_class">
-    <configuration name="ch15_1_try_and_catch_block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_1_try_and_catch_block" />
+  <component name="RunManager" selected="Application.ch15_practice">
+    <configuration name="ch15_6_finally_block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_6_finally_block" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch15_2_handling_specific_exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_2_handling_specific_exceptions" />
+    <configuration name="ch15_7_finally_block_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_7_finally_block_2" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch15_3_nested_try_catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_3_nested_try_catch" />
+    <configuration name="ch15_practice (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_practice" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch15_4_exception_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_4_exception_class" />
+    <configuration name="ch15_practice (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_practice" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -134,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Others.practice.methods.login" />
+    <configuration name="ch15_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_practice" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Others.practice.methods.*" />
+          <option name="PATTERN" value="OOPs_java.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch15_4_exception_class" />
-        <item itemvalue="Application.ch15_3_nested_try_catch" />
-        <item itemvalue="Application.ch15_2_handling_specific_exceptions" />
-        <item itemvalue="Application.ch15_1_try_and_catch_block" />
-        <item itemvalue="Application.login" />
+        <item itemvalue="Application.ch15_practice" />
+        <item itemvalue="Application.ch15_practice (2)" />
+        <item itemvalue="Application.ch15_practice (1)" />
+        <item itemvalue="Application.ch15_7_finally_block_2" />
+        <item itemvalue="Application.ch15_6_finally_block" />
       </list>
     </recent_temporary>
   </component>

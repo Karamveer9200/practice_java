@@ -14,6 +14,8 @@ private              	Yes	              No	                      No	            
 
 'Default is not an access modifier', it is assigned by default if we don't specify any.
 
+ -- In Java, a class cannot have 'protected' or 'private' access modifier.
+
 */
 
 public class ch13_access_modifiers_01{ // 'public' - class can be accessed outside this package

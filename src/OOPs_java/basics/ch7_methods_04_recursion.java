@@ -1,5 +1,5 @@
 package OOPs_java.basics;
-public class ch7_methods_04_Recursion {
+public class ch7_methods_04_recursion {
 // A function in JAVA can 'call itself', Such calling of a function
 // is called 'Recursion'
 
