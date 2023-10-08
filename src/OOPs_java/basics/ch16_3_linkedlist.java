@@ -65,6 +65,12 @@ public class ch16_3_linkedlist {
         System.out.println(L1.indexOf(7));// returns the index of the 'first' occurrence of the specified element.
         System.out.println(L1.subList(1,4));// returns a list containing the elements between index 1 and 4 (4 excluded)
 
+        // Methods exclusive to LinkedList
+        L1.addFirst(666); // adding an element at the beginning of the list
+        System.out.println(L1);
+        L1.addLast(999); // adding an element at the end of the list
+        System.out.println(L1);
+
         // Other common methods:
         // L1.subList(1,3)  --> This   method is used to get elements from index 1 to 3(excluding 3)
         // L1.retainAll(L2)  --> This method removes all elements from L1 that are not present in L2

@@ -10,7 +10,7 @@ public class ch16_2_arraylist {
 
         // created an arraylist that only accepts Integers
         ArrayList<Integer> L1 = new ArrayList<>();
-        // created an arraylist with = some initial capacity (default is 5)
+        // created an arraylist with some initial capacity by changing the constructor.
         ArrayList<Integer> L3 = new ArrayList<>(10);
 
         // array list could be of 'any' particular data-type

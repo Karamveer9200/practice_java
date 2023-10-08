@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_2_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_2_arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3_linkedlist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,33 +80,7 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch16_3_linkedlist">
-    <configuration name="ch15_exercise (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_exercise" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch15_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_exercise" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ch17_0_data_and_time">
     <configuration name="ch15_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_exercise" />
       <module name="No Reward_learn to know" />
@@ -183,6 +159,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch16_5_hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch16_5_hashset" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch17_0_data_and_time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch17_0_data_and_time" />
+      <module name="No Reward_learn to know" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ch7_methods_03_variable_arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch7_methods_03_variable_arguments" />
       <module name="No Reward_learn to know" />
@@ -198,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch17_0_data_and_time" />
+        <item itemvalue="Application.ch16_5_hashset" />
         <item itemvalue="Application.ch16_3_linkedlist" />
         <item itemvalue="Application.ch16_2_arraylist" />
         <item itemvalue="Application.ch7_methods_03_variable_arguments" />
-        <item itemvalue="Application.ch15_exercise" />
-        <item itemvalue="Application.ch15_exercise (1)" />
       </list>
     </recent_temporary>
   </component>
