@@ -40,6 +40,7 @@ public class ch16_2_arraylist {
         //L1.addAll(0, L2); // adding elements of L2 to L1 at the beginning of L1(index 0)
 
         // adding an element at index 0, But 4 will not be deleted, it will move to index 1
+        // method overloading
         L1.add(0, 5);
         System.out.println(L1);
         L1.add(0,6); // adding element at index 0
@@ -57,6 +58,9 @@ public class ch16_2_arraylist {
         L1.remove(0); // removing an element at index 0, which is 69
         System.out.println(L1);
         L1.remove(4); // removing an element at index 3, which is now 7
+        System.out.println(L1);
+        // removing a specific element from the arraylist using remove() method
+        L1.remove(Integer.valueOf(5)); //removed 5, without specifying the index
         System.out.println(L1);
 
         // Using some other methods of arraylist class

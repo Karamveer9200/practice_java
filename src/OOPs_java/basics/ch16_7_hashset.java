@@ -1,7 +1,7 @@
 package OOPs_java.basics;
 
 import java.util.*;
-public class ch16_5_hashset {
+public class ch16_7_hashset {
     public static void main(String[] args) {
         HashSet<Integer> hs1 = new HashSet<>();// new empty set created (with initial capacity of 16, load factor of 0.75)
 

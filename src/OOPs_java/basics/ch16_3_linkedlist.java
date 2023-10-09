@@ -41,6 +41,7 @@ public class ch16_3_linkedlist {
         //L1.addAll(0, L2); // adding elements of L2 to L1 at the beginning of L1(index 0)
 
         // adding an element at index 0, But 4 will not be deleted, it will move to index 1
+        // method overloading
         L1.add(0, 5);
         System.out.println(L1);
         L1.add(0,6); // adding element at index 0
