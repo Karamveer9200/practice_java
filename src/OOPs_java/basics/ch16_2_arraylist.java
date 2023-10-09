@@ -8,10 +8,10 @@ public class ch16_2_arraylist {
     public static void main(String[] args) {
         // creating an object of arraylist class and using some of its methods
 
-        // created an arraylist that only accepts Integers
+        // created an arraylist that only accepts Integers (default capacity = 10)
         ArrayList<Integer> L1 = new ArrayList<>();
         // created an arraylist with some initial capacity by changing the constructor.
-        ArrayList<Integer> L3 = new ArrayList<>(10);
+        ArrayList<Integer> L3 = new ArrayList<>(1200);
 
         // array list could be of 'any' particular data-type
         // ArrayList<String> S1 = new ArrayList<>();
