@@ -5,14 +5,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
+      <change afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_0_queue_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Game.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_2_arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_2_arraylist.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_3_linkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_3_linkedlist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_5_hashset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch1_variables_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch1_variables_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_2_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_2_arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3_linkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_7_hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_hashset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_exercise_guess_the_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_exercise_guess_the_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/0_Shortcuts_Ide" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/0_Shortcuts_Ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/01_packages_info" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/01_packages_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Brother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Brother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Classmate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Classmate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Friend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Mother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Sister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Sister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_0_inheritance_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_0_inheritance_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_0_inheritance_02_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_0_inheritance_02_constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_0_inheritance_03_constructor_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_0_inheritance_03_constructor_overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_4_this_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_4_this_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_5_super_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_5_super_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_6_method_overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_6_method_overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_7_dynamic_method_dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_7_dynamic_method_dispatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_8_exercise_online_library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_8_exercise_online_library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_0_abstract_class_and_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_0_abstract_class_and_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_1_interfaces_intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_1_interfaces_intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_2_abstract_classes_vs_interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_2_abstract_classes_vs_interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_3_multiple_inheritance_not_supported.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_3_multiple_inheritance_not_supported.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_4_default_methods_and_interface_examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_4_default_methods_and_interface_examples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_5_inheritance_in_interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_5_inheritance_in_interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_6_polymorphism_in_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_0_packages_Interpreted_vs_Compiled_languages" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_0_packages_Interpreted_vs_Compiled_languages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_1_what_type_is_java?" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_1_what_type_is_java?" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_2_packages" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_2_packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_4_0_importing_packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_4_0_importing_packages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_4_1_importing_packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_4_1_importing_packages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_5_compiling_and_running_packages" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_5_compiling_and_running_packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_access_modifiers_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_access_modifiers_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_exercise_testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_exercise_testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_practice/folder1/folder2/package_inside_package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_practice/folder1/folder2/package_inside_package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_0_MultiThreading" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_0_MultiThreading" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_1_thread_creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_1_thread_creation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_2_thread_creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_2_thread_creation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_3_life_cycle_of_a_thread" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_3_life_cycle_of_a_thread" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_4_thread_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_4_thread_constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_5_thread_priorities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_5_thread_priorities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_6_thread_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_6_thread_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_0_errors_and_exceptions" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_0_errors_and_exceptions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_1_try_and_catch_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_1_try_and_catch_block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_2_handling_specific_exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_2_handling_specific_exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_3_nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_3_nested_try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_4_exception_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_4_exception_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_5_throw_vs_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_5_throw_vs_throws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_6_finally_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_6_finally_block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_7_finally_block_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_7_finally_block_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_0_advance_java_collections_framework" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_0_advance_java_collections_framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_1_hierarchy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_1_hierarchy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_2_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_2_arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3.5_difference bw array and linked list.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_3.5_difference bw array and linked list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_3_linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_4.2_hashing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_4.2_hashing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_4.3_hashing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_4.3_hashing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_4_hashing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_4_hashing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_stack_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_5_stack_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_stack_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_5_stack_02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_stack_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_5_stack_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_6_queue_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_0_queue_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_6_queue_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_0_queue_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_6_queue_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_7_hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_7_hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch17_0_data_and_time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch17_0_data_and_time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch17_1_date_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch17_1_date_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch1_variables_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch1_variables_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch2_operators_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch2_operators_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch2_operators_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch2_operators_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch3_string_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch3_string_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch3_strings_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch3_strings_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch4_conditioinals_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditioinals_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch4_conditionals_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditionals_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch4_conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditionals_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_loops_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_loops_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_loops_03_break_and_continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_loops_03_break_and_continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_practice_adv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_practice_adv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_arrays_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_arrays_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_arrays_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_arrays_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_arrays_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_arrays_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_practice_adv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_practice_adv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_command_line_arguments" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_command_line_arguments" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_02_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_02_overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_03_variable_arguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_03_variable_arguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_04_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_04_recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_00_Basics" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch8_OOPs_00_Basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_01_class_and_object_creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch8_OOPs_01_class_and_object_creation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch8_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_access_modifiers__getters_and_setters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_access_modifiers__getters_and_setters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_exercise_guess_the_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_practice_pending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_practice_pending.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,9 +188,9 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch16_5_stack_03">
-    <configuration name="ch15_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_exercise" />
+  <component name="RunManager" selected="Application.ch9_exercise_guess_the_number">
+    <configuration name="ch11_1_interfaces_intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch11_1_interfaces_intro" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch16_2_arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch16_2_arraylist" />
+    <configuration name="ch9_exercise_guess_the_number (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch9_exercise_guess_the_number" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +228,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch16_5_stack_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch16_5_stack_03" />
+    <configuration name="ch9_exercise_guess_the_number (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch9_exercise_guess_the_number" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +241,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch16_7_hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch16_7_hashset" />
+    <configuration name="ch9_exercise_guess_the_number (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch9_exercise_guess_the_number" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -151,21 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch17_0_data_and_time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch17_0_data_and_time" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch1_variables_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch1_variables_01" />
+    <configuration name="ch9_exercise_guess_the_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch9_exercise_guess_the_number" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
@@ -179,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch16_5_stack_03" />
-        <item itemvalue="Application.ch16_2_arraylist" />
-        <item itemvalue="Application.ch1_variables_01" />
-        <item itemvalue="Application.ch17_0_data_and_time" />
-        <item itemvalue="Application.ch16_7_hashset" />
+        <item itemvalue="Application.ch9_exercise_guess_the_number" />
+        <item itemvalue="Application.ch9_exercise_guess_the_number (3)" />
+        <item itemvalue="Application.ch9_exercise_guess_the_number (2)" />
+        <item itemvalue="Application.ch9_exercise_guess_the_number (1)" />
+        <item itemvalue="Application.ch11_1_interfaces_intro" />
       </list>
     </recent_temporary>
   </component>
@@ -290,5 +380,217 @@
     <MESSAGE value="nothing significant" />
     <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
     <option name="LAST_COMMIT_MESSAGE" value="changed chapter numbering ch10, added ch10_7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_02_overloading.java</url>
+          <line>75</line>
+          <properties class="OOPs_java.basics.ch7_methods_02_overloading" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>36</line>
+          <properties class="OOPs_java.basics.Game" method="isCorrectInput">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>54</line>
+          <properties class="OOPs_java.basics.Game" method="SetNoOfGuesses">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>57</line>
+          <properties class="OOPs_java.basics.Game" method="GetNoOfGuesses">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_3_nested_try_catch.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_3_nested_try_catch.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

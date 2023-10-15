@@ -1,7 +1,7 @@
 package Others.Access_Modifiers;
 
 // Importing class ch13_access_modifiers_01 from package OOPs_java.basics
-import OOPs_java.basics.ch13_access_modifiers_01;
+import C2_OOPS_and_Basics.ch13_access_modifiers_01;
 
 class checking extends ch13_access_modifiers_01{
     //inheriting the variables from class ch13_access_modifiers_01
