@@ -5,117 +5,182 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
-      <change afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_0_queue_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_2_arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_2_arraylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_3_linkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_3_linkedlist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_hashset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_exercise_guess_the_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_exercise_guess_the_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/0_Shortcuts_Ide" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/0_Shortcuts_Ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/01_packages_info" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/01_packages_info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Brother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Brother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Classmate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Classmate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Friend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Mother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Sister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Sister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_0_inheritance_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_0_inheritance_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_0_inheritance_02_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_0_inheritance_02_constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_0_inheritance_03_constructor_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_0_inheritance_03_constructor_overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_4_this_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_4_this_keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_5_super_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_5_super_keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_6_method_overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_6_method_overriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_7_dynamic_method_dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_7_dynamic_method_dispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_8_exercise_online_library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_8_exercise_online_library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch10_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch10_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_0_abstract_class_and_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_0_abstract_class_and_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_1_interfaces_intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_1_interfaces_intro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_2_abstract_classes_vs_interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_2_abstract_classes_vs_interfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_3_multiple_inheritance_not_supported.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_3_multiple_inheritance_not_supported.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_4_default_methods_and_interface_examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_4_default_methods_and_interface_examples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_5_inheritance_in_interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_5_inheritance_in_interfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_6_polymorphism_in_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch11_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch11_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_0_packages_Interpreted_vs_Compiled_languages" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_0_packages_Interpreted_vs_Compiled_languages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_1_what_type_is_java?" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_1_what_type_is_java?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_2_packages" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_2_packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_4_0_importing_packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_4_0_importing_packages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_4_1_importing_packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_4_1_importing_packages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch12_5_compiling_and_running_packages" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch12_5_compiling_and_running_packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_access_modifiers_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_access_modifiers_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_exercise_testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_exercise_testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch13_practice/folder1/folder2/package_inside_package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch13_practice/folder1/folder2/package_inside_package.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_0_MultiThreading" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_0_MultiThreading" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_1_thread_creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_1_thread_creation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_2_thread_creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_2_thread_creation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_3_life_cycle_of_a_thread" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_3_life_cycle_of_a_thread" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_4_thread_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_4_thread_constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_5_thread_priorities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_5_thread_priorities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_6_thread_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_6_thread_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch14_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch14_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_0_errors_and_exceptions" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_0_errors_and_exceptions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_1_try_and_catch_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_1_try_and_catch_block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_2_handling_specific_exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_2_handling_specific_exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_3_nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_3_nested_try_catch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_4_exception_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_4_exception_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_5_throw_vs_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_5_throw_vs_throws.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_6_finally_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_6_finally_block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_7_finally_block_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_7_finally_block_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch15_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch15_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_0_advance_java_collections_framework" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_0_advance_java_collections_framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_1_hierarchy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_1_hierarchy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_2_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_2_arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3.5_difference bw array and linked list.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_3.5_difference bw array and linked list.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_3_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_3_linkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_4.2_hashing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_4.2_hashing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_4.3_hashing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_4.3_hashing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_4_hashing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_4_hashing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_stack_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_5_stack_01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_stack_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_5_stack_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_5_stack_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_5_stack_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_6_queue_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_0_queue_01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_6_queue_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_0_queue_02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_6_queue_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch16_7_hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_7_hashset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch17_0_data_and_time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch17_0_data_and_time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch17_1_date_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch17_1_date_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch1_variables_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch1_variables_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch2_operators_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch2_operators_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch2_operators_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch2_operators_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch3_string_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch3_string_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch3_strings_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch3_strings_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch4_conditioinals_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditioinals_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch4_conditionals_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditionals_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch4_conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditionals_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_loops_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_loops_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_loops_03_break_and_continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_loops_03_break_and_continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch5_practice_adv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch5_practice_adv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_arrays_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_arrays_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_arrays_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_arrays_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_arrays_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_arrays_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch6_practice_adv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch6_practice_adv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_command_line_arguments" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_command_line_arguments" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_02_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_02_overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_03_variable_arguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_03_variable_arguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_methods_04_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_04_recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch7_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_00_Basics" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch8_OOPs_00_Basics" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_OOPs_01_class_and_object_creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch8_OOPs_01_class_and_object_creation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch8_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch8_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_access_modifiers__getters_and_setters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_access_modifiers__getters_and_setters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_exercise_guess_the_number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs_java/basics/ch9_practice_pending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_practice_pending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/Access_Modifiers/using_access_modifiers02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/0_Shortcuts_Ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/API_CALC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Base_Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/BasicAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Camera1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/EasterEgg1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/EasterEgg2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Employee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/01_packages_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Brother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Classmate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HarrysRelations_ch12_3_packages/harrys_Sister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/HornBicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/InputAndValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/MaxAgeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/MyEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/NegativeRadiusException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Phone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Phone2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Phone3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/SampleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Search_Alogrithms/ch1_0_Linear_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/SmartPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/SmartPhone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/TommyVercetti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Wifi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/Wifi1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/base1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/bicycleInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/calculator_display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/calculator_errors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/cellPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/cellPhone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_0_inheritance_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_0_inheritance_02_constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_0_inheritance_03_constructor_overloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_4_this_keyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_5_super_keyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_6_method_overriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_7_dynamic_method_dispatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_8_exercise_online_library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch10_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_0_abstract_class_and_method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_1_interfaces_intro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_2_abstract_classes_vs_interfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_3_multiple_inheritance_not_supported.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_4_default_methods_and_interface_examples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_5_inheritance_in_interfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_6_polymorphism_in_interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch11_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch12_0_packages_Interpreted_vs_Compiled_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch12_1_what_type_is_java?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch12_2_packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch12_4_0_importing_packages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch12_4_1_importing_packages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch12_5_compiling_and_running_packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch13_access_modifiers_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch13_exercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch13_exercise_testing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch13_practice/folder1/folder2/package_inside_package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_0_MultiThreading" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_1_thread_creation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_2_thread_creation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_3_life_cycle_of_a_thread" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_4_thread_constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_5_thread_priorities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_6_thread_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch14_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_0_errors_and_exceptions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_1_try_and_catch_block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_2_handling_specific_exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_3_nested_try_catch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_4_exception_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_5_throw_vs_throws.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_6_finally_block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_7_finally_block_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_exercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch15_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_0_advance_java_collections_framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_1_hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_2_arraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_3.5_difference bw array and linked list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_3_linkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_4.2_hashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_4.3_hashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_4_hashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_5_stack_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_5_stack_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_5_stack_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_0_queue_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_0_queue_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_0_queue_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_1_priorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_6_2_arraydeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch16_7_hashset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch17_0_data_and_time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch17_1_date_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch1_variables_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch2_operators_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch2_operators_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch3_string_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch3_strings_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch4_conditioinals_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch4_conditionals_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch4_conditionals_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch5_loops_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch5_loops_03_break_and_continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch5_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch5_practice_adv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch6_arrays_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch6_arrays_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch6_arrays_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch6_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch6_practice_adv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch7_command_line_arguments" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch7_methods_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch7_methods_02_overloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch7_methods_03_variable_arguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch7_methods_04_recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch7_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch8_OOPs_00_Basics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch8_OOPs_01_class_and_object_creation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch8_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_access_modifiers__getters_and_setters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_exercise_guess_the_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/ch9_practice_pending.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/childSampleInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/child_of_derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/classA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/classB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/class_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/class_B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/class_a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/class_b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/compute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/cuboid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/derived1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/divide_by_zero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/featuresBicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/guiding_inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/max_multiplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/monkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/motorbike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/royal_enfield.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/sampleInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/smartphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/subclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/superclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/thr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/thr1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/thr2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/thr_a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/thr_b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/OOPs_java/basics/using_access_modifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_0_Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_0_Linear_Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,13 +253,13 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch9_exercise_guess_the_number">
-    <configuration name="ch11_1_interfaces_intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch11_1_interfaces_intro" />
+  <component name="RunManager" selected="Application.ch1_1_Search_in_Range">
+    <configuration name="ch1_0_Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C1_Search_Algorithms.ch1_0_Linear_Search" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="PATTERN" value="C1_Search_Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch15_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch15_exercise" />
+    <configuration name="ch1_1_Search_in_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C1_Search_Algorithms.ch1_1_Search_in_Range" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="PATTERN" value="C1_Search_Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,25 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch9_exercise_guess_the_number (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch9_exercise_guess_the_number" />
+    <configuration name="ch1_P_Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C1_Search_Algorithms.ch1_P_Linear_Search" />
       <module name="No Reward_learn to know" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch9_exercise_guess_the_number (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch9_exercise_guess_the_number" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="PATTERN" value="C1_Search_Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch1_1_Search_in_Range" />
+        <item itemvalue="Application.ch1_P_Linear_Search" />
+        <item itemvalue="Application.ch1_0_Linear_Search" />
         <item itemvalue="Application.ch9_exercise_guess_the_number" />
         <item itemvalue="Application.ch9_exercise_guess_the_number (3)" />
-        <item itemvalue="Application.ch9_exercise_guess_the_number (2)" />
-        <item itemvalue="Application.ch9_exercise_guess_the_number (1)" />
-        <item itemvalue="Application.ch11_1_interfaces_intro" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +439,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch7_methods_02_overloading.java</url>
           <line>75</line>
-          <properties class="OOPs_java.basics.ch7_methods_02_overloading" method="main">
+          <properties class="C2_OOPS_and_Basics.ch7_methods_02_overloading" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -396,7 +448,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
           <line>36</line>
-          <properties class="OOPs_java.basics.Game" method="isCorrectInput">
+          <properties class="C2_OOPS_and_Basics.Game" method="isCorrectInput">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -405,7 +457,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
           <line>54</line>
-          <properties class="OOPs_java.basics.Game" method="SetNoOfGuesses">
+          <properties class="C2_OOPS_and_Basics.Game" method="SetNoOfGuesses">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -414,7 +466,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.java</url>
           <line>57</line>
-          <properties class="OOPs_java.basics.Game" method="GetNoOfGuesses">
+          <properties class="C2_OOPS_and_Basics.Game" method="GetNoOfGuesses">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
