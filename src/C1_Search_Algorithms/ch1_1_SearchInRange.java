@@ -1,12 +1,12 @@
 package C1_Search_Algorithms;
 
-public class ch1_1_Search_in_Range {
+public class ch1_1_SearchInRange {
 
     // Linear search, but we provide a STARTING index and ENDING index
     public static void main(String[] args) {
 
-            String name  = "Harry";
-            char target = 'y';
+            String name  = "Dhruv Madhu";
+            char target = 'r';
             // here starting index is 1 and ending index is 2
             boolean result = linearSearch(name, target,1,3);
             System.out.println(result);

@@ -10,6 +10,7 @@ public class ch4_conditionals_03 {
         System.out.println("2. area of a circle");
         System.out.println("3. area of a rectangle");
         System.out.println("Enter the choice");
+
         int choice = sc.nextInt();
         if (choice==1 || choice==2 || choice==3){
             switch (choice) {

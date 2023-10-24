@@ -1,6 +1,6 @@
 package C1_Search_Algorithms;
 
-public class ch1_0_Linear_Search {
+public class ch1_0_LinearSearch {
     public static void main(String[] args) {
         int[] numbers = {2,4,5,9,4,6,46,7,6,4,};
         int target = 9;

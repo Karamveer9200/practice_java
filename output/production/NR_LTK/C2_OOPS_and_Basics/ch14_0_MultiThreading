@@ -1,0 +1,28 @@
+
+In a nut shell.......
+
+1. threads use shared memory area
+
+2. threads = faster content switching
+
+3. A thread is light-weight where a process is heavyweight
+   for example = A word processor can have one thread running in foreground
+   as an editor and another in the background auto saving the document !
+
+
+> without threading:
+
+   main() --> fun()1 --> fun2() -->END
+
+
+> With threading:
+
+                  main()
+                    |
+       ----------------------------
+       |                          |
+     fun1()                     fun2()
+       |                          |
+       ----------------------------
+                    |
+                   END
