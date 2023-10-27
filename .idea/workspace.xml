@@ -5,190 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
-      <change afterPath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_2_MinimumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/No Reward_learn to know.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NR_LTK.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C1_Search_Algorithms/ch1_0_Linear_Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C1_Search_Algorithms/ch1_1_Search_in_Range.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C1_Search_Algorithms/ch1_P_Linear_Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/API_CALC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Base_Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/BasicAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Camera1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/EasterEgg1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/EasterEgg2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Employee2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Brother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Classmate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Friend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Mother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HarrysRelations_ch12_3_packages/harrys_Sister.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/HornBicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/InputAndValidation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/MaxAgeException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/MyEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/NegativeRadiusException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Phone1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Phone2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Phone3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/SampleClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/SmartPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/SmartPhone1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/TommyVercetti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Wifi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/Wifi1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/base1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/bicycleInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/calculator_display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/calculator_errors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/cellPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/cellPhone1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_0_inheritance_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_0_inheritance_02_constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_0_inheritance_03_constructor_overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_4_this_keyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_5_super_keyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_6_method_overriding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_7_dynamic_method_dispatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_8_exercise_online_library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch10_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_0_abstract_class_and_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_1_interfaces_intro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_2_abstract_classes_vs_interfaces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_3_multiple_inheritance_not_supported.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_4_default_methods_and_interface_examples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_5_inheritance_in_interfaces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_6_polymorphism_in_interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch11_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch12_4_0_importing_packages.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch12_4_1_importing_packages.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch13_access_modifiers_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch13_exercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch13_exercise_testing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch13_practice/folder1/folder2/package_inside_package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch14_1_thread_creation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch14_2_thread_creation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch14_4_thread_constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch14_5_thread_priorities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch14_6_thread_methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch14_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_1_try_and_catch_block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_2_handling_specific_exceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_3_nested_try_catch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_4_exception_class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_5_throw_vs_throws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_6_finally_block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_7_finally_block_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_exercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch15_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_2_arraylist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_3_linkedlist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_5_stack_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_6_0_queue_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_6_1_priorityQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_6_2_arraydeque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch16_7_hashset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch17_0_data_and_time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch17_1_date_class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch1_variables_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch2_operators_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch2_operators_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch3_string_methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch3_strings_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch4_conditioinals_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch4_conditionals_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch4_conditionals_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch5_loops_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch5_loops_03_break_and_continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch5_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch5_practice_adv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch6_arrays_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch6_arrays_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch6_arrays_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch6_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch6_practice_adv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch7_methods_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch7_methods_02_overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch7_methods_03_variable_arguments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch7_methods_04_recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch7_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch8_OOPs_01_class_and_object_creation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch8_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch9_access_modifiers__getters_and_setters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch9_constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch9_exercise_guess_the_number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/ch9_practice_pending.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/childSampleInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/child_of_derived.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/class1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/class2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/classA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/classB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/class_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/class_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/class_a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/class_b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/compute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/cuboid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/derived.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/derived1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/divide_by_zero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/featuresBicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/guiding_inputs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/max_multiplier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/monkey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/motorbike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/royal_enfield.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/sampleInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/smartphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/subclass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/superclass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/thr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/thr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/thr2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/thr_a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/thr_b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/C2_OOPS_and_Basics/using_access_modifiers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/Access_Modifiers/checking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/Access_Modifiers/using_access_modifiers01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/Access_Modifiers/using_access_modifiers02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/conversions/bin_dec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/conversions/bin_hex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/conversions/bin_oct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/conversions/conv_dec_bin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/conversions/conversion_all.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/conversions/numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/methods/login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/methods/user.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/methods/welcome_page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/practice/strings/string_p_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/problems/problem_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/report_card/Marks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/report_card/Marks_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/report_card/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/report_card/compute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/report_card/compute_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/No Reward_learn to know/Others/report_card/input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_0_Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_0_LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_1_Search_in_Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_1_SearchInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C1_Search_Algorithms/ch1_2_Minimum_number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_2_arraydeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch16_6_2_arraydeque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditionals_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_OOPS_and_Basics/ch4_conditionals_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,9 +78,22 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestingPurpose">
-    <configuration name="Lab3_01_RoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CS_110.Lab3_01_RoomHeating" />
+  <component name="RunManager" selected="Application.Lab4_04_RoomHeating">
+    <configuration name="Lab4_01_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Lab4_01_Time" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CS_110.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab4_04_RoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Lab4_04_RoomHeating" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
@@ -288,32 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch1_P_Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C1_Search_Algorithms.ch1_P_Linear_Search" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C1_Search_Algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch4_conditionals_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_OOPS_and_Basics.ch4_conditionals_03" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C2_OOPS_and_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ch6_arrays_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C2_OOPS_and_Basics.ch6_arrays_03" />
       <module name="NR_LTK" />
@@ -329,11 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab4_04_RoomHeating" />
+        <item itemvalue="Application.Lab4_01_Time" />
         <item itemvalue="Application.TestingPurpose" />
         <item itemvalue="Application.ch6_arrays_03" />
-        <item itemvalue="Application.ch4_conditionals_03" />
-        <item itemvalue="Application.ch1_P_Linear_Search" />
-        <item itemvalue="Application.Lab3_01_RoomHeating" />
       </list>
     </recent_temporary>
   </component>
