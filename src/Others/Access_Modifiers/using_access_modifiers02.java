@@ -1,7 +1,7 @@
 package Others.Access_Modifiers;
 
 // Importing class ch13_access_modifiers_01 from package OOPs_java.basics
-import C2_OOPS_and_Basics.ch13_access_modifiers_01;
+import C2Basics.ch13_access_modifiers_01;
 
 public class using_access_modifiers02 {
     public static void main(String[] args) {
