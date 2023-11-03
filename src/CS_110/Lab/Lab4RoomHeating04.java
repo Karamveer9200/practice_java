@@ -153,7 +153,6 @@ public class Lab4RoomHeating04 {
             outsideWalls();
         }
     }
-
 }
 
 
