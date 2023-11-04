@@ -2,7 +2,7 @@ package CS_110.Lab;
 
 import java.util.Scanner;
 
-public class Lab2SignOffRoomHeating {
+public class Lab5SignOffRoomHeating {
     static final double U_VALUE_WALL_SOLID = 2;
     static final double U_VALUE_WALL_NO_INSULATION = 1;
     static final double U_VALUE_WALL_INSULATED = 0.5;
@@ -26,19 +26,22 @@ public class Lab2SignOffRoomHeating {
             double uValueWindow = uValueWindow();
 
             System.out.println("Room height (meters): ");
-            double height = 2;//in.nextFloat();
+            // checks for legal double
+            while (!in.hasNextDouble()) {
+                in.nextLine();
+            }
+            double height = in.nextFloat();
             System.out.println("Room width (meters): ");
-            double width = 3;//in.nextFloat();
+            double width = in.nextFloat();
             System.out.println("Room length (meters): ");
-            double length = 4;//in.nextFloat();
+            double length = in.nextFloat();
             System.out.println("Window side a (meters): ");
-            double windowSideA = 1;//in.nextFloat();
+            double windowSideA = in.nextFloat();
             System.out.println("Window side b (meters): ");
-            double windowSideB = 1.5f;//in.nextFloat();
+            double windowSideB = in.nextFloat();
 
             // Total outside walls
             outsideWalls();
-
 
             double areaOfWindow = windowSideA * windowSideB;
             double lengthSide = (length * height) * lengthWalls;

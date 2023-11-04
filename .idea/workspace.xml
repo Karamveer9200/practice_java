@@ -6,9 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CS_110/C6DoubleMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/ChapterExamples/C6DoubleMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CS_110/ForTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Lab/ForTesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CS_110/Lab/Lab4RoomHeating04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Lab/Lab4RoomHeating04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab2SignOffRoomHeating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CS_110/Lab/Lab2SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Lab/Lab5SignOffRoomHeating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +84,13 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab2SignOffRoomHeating">
-    <configuration name="Lab2SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab2SignOffRoomHeating" />
+  <component name="RunManager" selected="Application.FibonacciNim2">
+    <configuration name="FibonacciNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Assessment.FibonacciNim" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CS_110.Lab.*" />
+          <option name="PATTERN" value="CS_110.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab5Stage1WhileVSFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab5Stage1WhileVSFor" />
+    <configuration name="FibonacciNim1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Assessment.FibonacciNim1" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CS_110.Lab.*" />
+          <option name="PATTERN" value="CS_110.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab5Stage2WhileVsFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab5Stage2WhileVsFor" />
+    <configuration name="FibonacciNim2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Assessment.FibonacciNim2" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CS_110.Lab.*" />
+          <option name="PATTERN" value="CS_110.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab5Stage3SumOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab5Stage3SumOdd" />
+    <configuration name="Lab5SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab5SignOffRoomHeating" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab2SignOffRoomHeating" />
+        <item itemvalue="Application.FibonacciNim2" />
+        <item itemvalue="Application.FibonacciNim1" />
+        <item itemvalue="Application.FibonacciNim" />
+        <item itemvalue="Application.Lab5SignOffRoomHeating" />
         <item itemvalue="Application.Lab5Stage4PatternBlock" />
-        <item itemvalue="Application.Lab5Stage3SumOdd" />
-        <item itemvalue="Application.Lab5Stage2WhileVsFor" />
-        <item itemvalue="Application.Lab5Stage1WhileVSFor" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +324,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/CS_110/Lab/ForTesting.java</url>
           <line>3</line>
-          <properties class="CS_110.Lab.ForTesting">
+          <properties class="CS_110.Lab.ForTesting" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -355,40 +358,31 @@
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CS_110/Lab/Lab2SignOffRoomHeating.java</url>
-          <line>18</line>
-          <properties class="CS_110.Lab.Lab2SignOffRoomHeating" method="main">
+          <url>file://$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim1.java</url>
+          <line>66</line>
+          <properties class="CS_110.Assessment.FibonacciNim1" method="heapSelection">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="82" />
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CS_110/Lab/Lab2SignOffRoomHeating.java</url>
-          <line>78</line>
-          <properties class="CS_110.Lab.Lab2SignOffRoomHeating" method="uValueWall">
+          <url>file://$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim1.java</url>
+          <line>26</line>
+          <properties class="CS_110.Assessment.FibonacciNim1" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="83" />
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CS_110/Lab/Lab2SignOffRoomHeating.java</url>
-          <line>110</line>
-          <properties class="CS_110.Lab.Lab2SignOffRoomHeating" method="uValueWindow">
+          <url>file://$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim2.java</url>
+          <line>68</line>
+          <properties class="CS_110.Assessment.FibonacciNim2" method="heapSelection">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CS_110/Lab/Lab2SignOffRoomHeating.java</url>
-          <line>138</line>
-          <properties class="CS_110.Lab.Lab2SignOffRoomHeating" method="outsideWalls">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="85" />
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/C2Basics/ch15_3_nested_try_catch.java</url>
