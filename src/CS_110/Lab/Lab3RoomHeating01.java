@@ -19,7 +19,7 @@ public class Lab3RoomHeating01 {
         System.out.println("Window side a (meters): ");
         double windowSideA = 1;//in.nextFloat();
         System.out.println("Window side b (meters): ");
-        double windowSideB = 1.5f;//in.nextFloat();
+        double windowSideB = 1.5;//in.nextFloat();
 
 
         double areaOfWindow = windowSideA * windowSideB;

@@ -2,7 +2,7 @@ package CS_110.Assessment;
 
 import java.util.Scanner;
 
-public class FibonacciNim {
+public class FibonacciNim3 {
     static final int EMPTY = 0;
 
     // Coins in a full heap

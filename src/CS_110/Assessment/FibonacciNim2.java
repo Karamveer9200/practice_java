@@ -62,7 +62,7 @@ public class FibonacciNim2 {
         } while (allHeapsNot0);
         // print the winner
         System.out.println("Player " + winner + " wins!");
-    }   // THIS PROGRAM ENDS HERE.
+    }   // MAIN METHOD ENDS HERE.
 
     // ALL METHODS used:
     // method to CHOOSE a HEAP
@@ -91,6 +91,7 @@ public class FibonacciNim2 {
             // initialized variable chosenHeap
             // will be used in other methods, later on
             chosenHeap = in.nextInt();
+
             if (chosenHeap == 1 || chosenHeap == -1) {
                 currentHeap = HEAP_1;
             } else if (chosenHeap == 2 || chosenHeap == -2) {

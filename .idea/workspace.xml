@@ -7,11 +7,11 @@
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab2SignOffRoomHeating.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CS_110/Lab/Lab2SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Lab/Lab5SignOffRoomHeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CS_110/Lab/Lab3RoomHeating01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CS_110/Lab/Lab3RoomHeating01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciNim2">
+  <component name="RunManager" selected="Application.FibonacciNim3">
     <configuration name="FibonacciNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CS_110.Assessment.FibonacciNim" />
       <module name="NR_LTK" />
@@ -124,6 +124,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FibonacciNim3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CS_110.Assessment.FibonacciNim3" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CS_110.Assessment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab5SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab5SignOffRoomHeating" />
       <module name="NR_LTK" />
@@ -137,26 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab5Stage4PatternBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CS_110.Lab.Lab5Stage4PatternBlock" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CS_110.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciNim3" />
+        <item itemvalue="Application.FibonacciNim" />
         <item itemvalue="Application.FibonacciNim2" />
         <item itemvalue="Application.FibonacciNim1" />
-        <item itemvalue="Application.FibonacciNim" />
         <item itemvalue="Application.Lab5SignOffRoomHeating" />
-        <item itemvalue="Application.Lab5Stage4PatternBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -356,24 +356,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim1.java</url>
-          <line>66</line>
-          <properties class="CS_110.Assessment.FibonacciNim1" method="heapSelection">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim1.java</url>
-          <line>26</line>
-          <properties class="CS_110.Assessment.FibonacciNim1" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/CS_110/Assessment/FibonacciNim2.java</url>
