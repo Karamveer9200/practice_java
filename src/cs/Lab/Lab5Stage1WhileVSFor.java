@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 //Convert the following while loop into a for loop
 public class Lab5Stage1WhileVSFor {

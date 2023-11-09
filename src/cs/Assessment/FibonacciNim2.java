@@ -1,4 +1,4 @@
-package CS_110.Assessment;
+package cs.Assessment;
 
 import java.util.Scanner;
 

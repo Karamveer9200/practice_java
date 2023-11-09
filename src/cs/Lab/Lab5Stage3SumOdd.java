@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 // Write a program that calculates the sum of odd numbers from 1 up to and
 // including 19 using a loop - that is, 1 + 3 + 5 + … + 15 + 17 + 19.

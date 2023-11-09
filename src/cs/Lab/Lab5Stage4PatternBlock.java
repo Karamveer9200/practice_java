@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 /*
 Write a program that accepts reads two integers from the user - one representing

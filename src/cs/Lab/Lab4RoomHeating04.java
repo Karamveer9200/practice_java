@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 import java.util.Scanner;
 
@@ -12,9 +12,9 @@ public class Lab4RoomHeating04 {
     static final double TEMP_DIFFERENCE = 22;
 
     // outside walls length-side
-    static int lengthWalls;
+    private static int lengthWalls;
     // outside walls width-side
-    static int widthWalls;
+    private static int widthWalls;
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -36,16 +36,15 @@ public class Lab4RoomHeating04 {
         // Total outside walls
         outsideWalls();
 
-
         double areaOfWindow = windowSideA * windowSideB;
         double lengthSide = (length * height) * lengthWalls ;
         double widthSide = (width * height) * widthWalls;
 
         double areaOfWalls =  lengthSide + widthSide - areaOfWindow;
-        double areaOfFloor_Ceiling = length * width;
+        double areaOfFloorCeiling = length * width;
         double heatLossToWindow = areaOfWindow * uValueWindow * TEMP_DIFFERENCE;
         double heatLossToWalls = areaOfWalls * uValueWall * TEMP_DIFFERENCE;
-        double heatLossToFloor = areaOfFloor_Ceiling * U_VALUE_FLOORS * TEMP_DIFFERENCE;
+        double heatLossToFloor = areaOfFloorCeiling * U_VALUE_FLOORS * TEMP_DIFFERENCE;
         double totalEnergyRequired = heatLossToWalls + heatLossToWindow + heatLossToFloor;
 
         System.out.println("Total energy required: "+ totalEnergyRequired);
@@ -111,7 +110,7 @@ public class Lab4RoomHeating04 {
         int totalWalls = sc.nextInt();
         int lengthSideWalls;
 
-        if(totalWalls >0 && totalWalls <5 ) {
+        if (totalWalls >0 && totalWalls <5) {
             switch (totalWalls) {
                 case 1:
                     System.out.println("Total length-side walls: ");
@@ -147,6 +146,8 @@ public class Lab4RoomHeating04 {
                     lengthWalls = 4;
                     widthWalls = 0;
                     break;
+                    default:
+                System.out.println("Some logical error");
             }
         } else {
             System.out.println("Invalid input");

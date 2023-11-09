@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 import java.util.Scanner;
 

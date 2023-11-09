@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 /*
 Repeat the task 4 but print a box of *s instead. E.g.
    1

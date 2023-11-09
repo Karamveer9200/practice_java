@@ -1,4 +1,4 @@
-package CS_110.Exercises;
+package cs.Exercises;
 /*
 Write a for loop that computes the total of the following sequence of numbers: 1/30 + 2/29 + 3/28 + ... + 30/1
  */

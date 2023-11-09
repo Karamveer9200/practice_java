@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.12.4</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="ef1e830e-c3e1-4d55-b10a-9cece2a9a307" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="ef1e830e-c3e1-4d55-b10a-9cece2a9a307" type="LOCAL_FILE" scope="All" description="inline">$USER_HOME$/basics/java/CheckStyle/inlinebrackets.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>

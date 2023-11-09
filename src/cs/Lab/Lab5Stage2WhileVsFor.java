@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 import java.util.Scanner;
 //n this example, we are using a for loop when we should be using a while loop

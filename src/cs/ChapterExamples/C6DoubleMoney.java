@@ -1,4 +1,4 @@
-package CS_110.ChapterExamples;
+package cs.ChapterExamples;
 
 import java.util.Scanner;
 

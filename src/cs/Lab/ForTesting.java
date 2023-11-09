@@ -1,4 +1,4 @@
-package CS_110.Lab;
+package cs.Lab;
 
 public class ForTesting {
     public static void main(String[] args) {

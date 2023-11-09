@@ -1,4 +1,4 @@
-package CS_110.Exercises;
+package cs.Exercises;
 
 /*
 Write a for loop that prints out the numbers 1 to 100. For all numbers that are multiples of 3 it should also print
