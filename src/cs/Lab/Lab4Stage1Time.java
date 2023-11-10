@@ -1,7 +1,7 @@
 package cs.Lab;
 import java.util.Scanner;
 
-public class Lab4Time01 {
+public class Lab4Stage1Time {
     public static void main(String[] args) {
         System.out.println("Enter the hour: ");
         Scanner sc = new Scanner(System.in);

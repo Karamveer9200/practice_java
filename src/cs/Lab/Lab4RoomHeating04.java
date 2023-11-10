@@ -37,7 +37,7 @@ public class Lab4RoomHeating04 {
         outsideWalls();
 
         double areaOfWindow = windowSideA * windowSideB;
-        double lengthSide = (length * height) * lengthWalls ;
+        double lengthSide = (length * height) * lengthWalls;
         double widthSide = (width * height) * widthWalls;
 
         double areaOfWalls =  lengthSide + widthSide - areaOfWindow;
