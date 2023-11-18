@@ -1,6 +1,7 @@
 package cs.Assessment;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class FibonacciNim3 {
     // Coins in an empty heap
@@ -9,22 +10,16 @@ public class FibonacciNim3 {
     static final int FULL = 13;
 
     // Coins in each heap at the start
-    private static int heap1 = FULL;
-    private static int heap2 = FULL;
-    private static int heap3 = FULL;
-
-    // MAX and MIN heap choice
-    // static final int MAX = 3;
-    // static final int MIN = -3;
+    private static int[] heap = {FULL, FULL, FULL};
 
     // Current player's heap & coins
+    private static final int[] LEGAL_HEAP_CHOICE = {1, 2, 3};
+    private static final int[] LEGAL_HEAP_CHOICE_RESET = {-3, -2, -1};
     private static int chosenHeap;
     private static int chosenCoins;
 
-    // For reference
-    private static int chosenCoinsPreviousPlayerHeap1;
-    private static int chosenCoinsPreviousPlayerHeap2;
-    private static int chosenCoinsPreviousPlayerHeap3;
+    // For reference; previous player's coin choice
+    private static int[] chosenCoinsPreviousPlayerHeap = {0, 0, 0};
     private static int chosenCoinsPreviousPlayer;
 
     // Total allowed resets
@@ -39,15 +34,16 @@ public class FibonacciNim3 {
     static final String MSG_H_NOT_LEGAL = "Sorry that's not a legal heap choice.";
     // coin messages
     static final String MSG_CHOOSE_COINS = "Now choose a number of coins between 1 and %d: ";
-    static final String MSG_CHOOSE_COINS_2 = "Now choose between 1 and %d: ";
+    static final String MSG_CHOOSE_COINS_AGAIN = "Now choose between 1 and %d: ";
     static final String MSG_C_NOT_INT = "Sorry you must enter an integer.";
     static final String MSG_C_NOT_LEGAL = "Sorry that's not a legal number of coins for that heap.";
     // reset messages
     static final String MSG_H_RESET_SUCCESS = "Heap %d has been reset";
     static final String MSG_H_RESET_FAIL = "Sorry you have used your reset.";
-    // etc
+
+    // winner message
     static final String MSG_WINNER = "Player %c wins!";
-    static final String MSG_LOGICAL_ERROR = "Some Logical error";
+
 
     public static void main(String[] args) {
         boolean allHeapsNot0 = true;
@@ -59,16 +55,16 @@ public class FibonacciNim3 {
         do {
             // method called to SELECT/RESET a HEAP
             returnValue = heapSelection(currentPlayer, in);
-            // check for a reset
 
+            // check for a reset
             // if there is a RESET!, the current player WON'T be prompted to take coins
             if (returnValue.equals("no-reset")) {
                 // method to take coins from the selected heap, and do the computation ...
                 coinSelection(in);
             }
 
-            // if all heaps are 0/empty, then currentPlayer = winner & change boolean to false
-            if (heap1 == EMPTY && heap2 == EMPTY && heap3 == EMPTY) {
+            // if all heaps are 0/EMPTY, then currentPlayer = winner & change boolean to false
+            if (heap[0] == EMPTY && heap[1] == EMPTY && heap[2] == EMPTY) {
                 winner = currentPlayer;
                 // will end the do-while loop
                 allHeapsNot0 = false;
@@ -95,7 +91,7 @@ public class FibonacciNim3 {
         String resetResult;
         boolean notValid = true;
 
-        System.out.println(String.format(MSG_REM_COINS, heap1, heap2, heap3));
+        System.out.println(String.format(MSG_REM_COINS, heap[0], heap[1], heap[2]));
         do {
             System.out.print(String.format(MSG_CHOOSE_HEAP, currentPlayer));
             // check if input is an Integer
@@ -108,33 +104,44 @@ public class FibonacciNim3 {
             // will be used in other methods, later on
             chosenHeap = in.nextInt();
 
-            if (chosenHeap == 1 || chosenHeap == -1) {
-                currentHeap = heap1;
-            } else if (chosenHeap == 2 || chosenHeap == -2) {
-                currentHeap = heap2;
-            } else if (chosenHeap == 3 || chosenHeap == -3) {
-                currentHeap = heap3;
+            // choosing the current heap
+            // Note: I was using if-else statements earlier
+            // To avoid magic numbers, I am using a for-loop
+            int j = LEGAL_HEAP_CHOICE.length - 1;
+            for (int i = 0; i < LEGAL_HEAP_CHOICE.length; i++) {
+                // suppose when i = 0, j = LEGAL_HEAP_CHOICE.length - 1
+                // LEGAL_HEAP_CHOICE[0] = 1, LEGAL_HEAP_CHOICE_RESET[0 + 2] = -1
+                if (chosenHeap == LEGAL_HEAP_CHOICE[i] || chosenHeap == LEGAL_HEAP_CHOICE_RESET[i + j]) {
+                    currentHeap = heap[i];
+                }
+                j--;
             }
 
-            // checks if chosen heap is legal and is not empty
-            if (chosenHeap >= 1 && chosenHeap <= 3 && currentHeap != EMPTY) {
+            // checks if chosen heap is 'legal' and is 'not' empty
+            // Arrays.binarySearch(LEGAL_HEAP_CHOICE, chosenHeap) will return an index number, only if
+            // the element (that we are searching) is present in the array
+            if (Arrays.binarySearch(LEGAL_HEAP_CHOICE, chosenHeap) >= 0 && currentHeap != EMPTY) {
                 // will end the do-while loop
                 notValid = false;
-            } else if (chosenHeap <= -1 && chosenHeap >= -3) { // conditions for a reset
-                //  function reset() called
+            } else if (Arrays.binarySearch(LEGAL_HEAP_CHOICE_RESET, chosenHeap) >= 0) {
+                // above is the condition for a 'reset'
+
+                // 'converting' chosenHeap -ve to +ve
+                chosenHeap -= 2 * chosenHeap;
+                //  method reset() called
                 resetResult = reset(currentPlayer, chosenHeap);
                 //  if reset is successful, do-while loop will end
                 if (resetResult.equals("successful")) {
-                    // if there is a reset, the return value of the method will be changed
+                    // if there is a reset, the 'return value' of the method 'heapSelection' will be changed
                     returnValue = "reset";
                     // will end the do-while loop
                     notValid = false;
-                } else if (resetResult.equals("un-successful")) { //  otherwise, scanner is cleared and loop continues
-                    // Current Input cleaned for the next iteration
+                } else if (resetResult.equals("un-successful")) {
+                    // Current Input cleaned, loop continues (to ask currentPlayer to choose a heap again)
                     in.nextLine();
                 }
             } else {
-                // Current Input cleaned for the next iteration
+                // Current Input cleaned, loop continues
                 in.nextLine();
                 System.out.println(MSG_H_NOT_LEGAL);
             }
@@ -150,22 +157,13 @@ public class FibonacciNim3 {
         String result = "un-successful";
         // if statement only executes if current player has 1 reset
         if ((currentPlayer == '1' && player1Reset != EMPTY) || (currentPlayer == '2' && player2Reset != EMPTY)) {
-            switch (chosenHeap) {
-                // reset the chosen heap to FULL
-                case -1:
-                    heap1 = FULL;
-                    heapNumber = 1;
-                    break;
-                case -2:
-                    heap2 = FULL;
-                    heapNumber = 2;
-                    break;
-                case -3:
-                    heap3 = FULL;
-                    heapNumber = 3;
-                    break;
-                default:
-                    System.out.println(MSG_LOGICAL_ERROR);
+
+            // reset the chosen heap to FULL
+            for (int i = 0; i < LEGAL_HEAP_CHOICE.length; i++) {
+                if (chosenHeap == LEGAL_HEAP_CHOICE[i]) {
+                    heap[i] = FULL;
+                    heapNumber = LEGAL_HEAP_CHOICE[i];
+                }
             }
             System.out.println(String.format(MSG_H_RESET_SUCCESS, heapNumber));
 
@@ -175,74 +173,37 @@ public class FibonacciNim3 {
             } else {
                 player2Reset -= 1;
             }
+
             result = "successful";
         } else {
             System.out.println(MSG_H_RESET_FAIL);
-            System.out.println(String.format(MSG_REM_COINS, heap1, heap2, heap3));
+            System.out.println(String.format(MSG_REM_COINS, heap[0], heap[1], heap[2]));
         }
         return result;
     }
 
+
     // method to TAKE COINS from the CHOSEN HEAP
     static void coinSelection(Scanner in) {
-        boolean notValid = true;
         int currentHeap = 0;
 
         // to make chosen heap = current heap, and
         // to the select previous player's chosen coins, with respect to chosenHeap
-        if (chosenHeap == 1) {
-            currentHeap = heap1;
-            chosenCoinsPreviousPlayer = chosenCoinsPreviousPlayerHeap1;
-        } else if (chosenHeap == 2) {
-            currentHeap = heap2;
-            chosenCoinsPreviousPlayer = chosenCoinsPreviousPlayerHeap2;
-        } else if (chosenHeap == 3) {
-            currentHeap = heap3;
-            chosenCoinsPreviousPlayer = chosenCoinsPreviousPlayerHeap3;
-        }
-        do {
-            // if chosen heap is FULL, then another method will be called
-            if (currentHeap == FULL) {
-                // calling another kinda similar method
-                coinSelectionFullHeap(in);
-                // will end the do-while loop
-                notValid = false;
-            } else { // if chosen heap is NOT FULL,
-                // the current player can take 2X coins than what the previous player took,
-                // if 2x(the previous player's coins) is within the current heap's range, then
-                if ((2 * chosenCoinsPreviousPlayer) <= currentHeap) {
-                    System.out.print(String.format(MSG_CHOOSE_COINS, 2 * chosenCoinsPreviousPlayer));
-                    // check if input is an Integer
-                    while (!in.hasNextInt()) {
-                        System.out.println(MSG_C_NOT_INT);
-                        in.nextLine();
-                        System.out.print(String.format(MSG_CHOOSE_COINS_2, 2 * chosenCoinsPreviousPlayer));
-                    }
-                } else {
-                    // if 2x(the previous player's coins) exceed current heap coins, then MAX current player can take
-                    // is all the coins in the current heap
-                    System.out.print(String.format(MSG_CHOOSE_COINS, currentHeap));
-                    // check if input is an Integer
-                    while (!in.hasNextInt()) {
-                        System.out.println(MSG_C_NOT_INT);
-                        in.nextLine();
-                        System.out.print(String.format(MSG_CHOOSE_COINS_2, currentHeap));
-                    }
-                }
-                chosenCoins = in.nextInt();
-                // checks whether the chosenCoins are within the valid range
-                if (chosenCoins > EMPTY && chosenCoins <= (2 * chosenCoinsPreviousPlayer)
-                        && chosenCoins <= currentHeap) {
-                    // will end the do-while loop
-                    notValid = false;
-                    coinDeduction(chosenCoins);
-                } else {
-                    // Current Input cleaned for the next iteration
-                    in.nextLine();
-                    System.out.println(MSG_C_NOT_LEGAL);
-                }
+        for (int i = 0; i < LEGAL_HEAP_CHOICE.length; i++) {
+            if (chosenHeap == LEGAL_HEAP_CHOICE[i]) {
+                currentHeap = heap[i];
+                chosenCoinsPreviousPlayer = chosenCoinsPreviousPlayerHeap[i];
             }
-        } while (notValid);
+        }
+
+        // if chosen heap is FULL/NOT FULL, then another method will be called
+        if (currentHeap == FULL) {
+            // method to select coins (FULL heap)
+            coinSelectionFullHeap(in);
+        } else {
+            // method to select coins (NOT-FULL heap)
+            coinSelectionNotFullHeap(in, currentHeap);
+        }
         // Method ends, Input cleaned
         in.nextLine();
     }
@@ -256,11 +217,7 @@ public class FibonacciNim3 {
             System.out.print(String.format(MSG_CHOOSE_COINS, FULL - 1));
 
             // check if input is an Integer
-            while (!in.hasNextInt()) {
-                System.out.println(MSG_C_NOT_INT);
-                in.nextLine();
-                System.out.print(String.format(MSG_CHOOSE_COINS_2, FULL - 1));
-            }
+            integerCheck(in, FULL -1);
             chosenCoins = in.nextInt();
             // checks whether the chosenCoins are within the valid range (i.e. < 13)
             if (chosenCoins > EMPTY && chosenCoins < FULL) {
@@ -268,32 +225,63 @@ public class FibonacciNim3 {
                 notValid = false;
                 coinDeduction(chosenCoins);
             } else {
-                // Current Input cleaned for the next iteration
+                // Current Input cleaned, loop continues
                 in.nextLine();
                 System.out.println(MSG_C_NOT_LEGAL);
             }
         } while (notValid);
     }
 
+    static void coinSelectionNotFullHeap(Scanner in, int currentHeap) {
+        boolean notValid = true;
+
+        do {
+            // if chosen heap is NOT FULL,
+            // the currentPlayer can take 2X coins than what the previous player took,
+            // if 2x(the previous player's coins) is within the current heap's range, then
+            if ((2 * chosenCoinsPreviousPlayer) <= currentHeap) {
+                System.out.print(String.format(MSG_CHOOSE_COINS, 2 * chosenCoinsPreviousPlayer));
+                // method checks if input is an Integer
+                integerCheck(in, 2 * chosenCoinsPreviousPlayer);
+            } else {
+                // if 2x(the previous player's coins) exceed currentHeap coins,
+                // then MAX current currentPlayer can take is all the coins in the currentHeap
+                System.out.print(String.format(MSG_CHOOSE_COINS, currentHeap));
+                // method checks if input is an Integer
+                integerCheck(in, currentHeap);
+            }
+            chosenCoins = in.nextInt();
+            // checks whether the chosenCoins are within the valid range
+            if (chosenCoins > EMPTY && chosenCoins <= (2 * chosenCoinsPreviousPlayer)
+                    && chosenCoins <= currentHeap) {
+                // will end the do-while loop
+                notValid = false;
+                coinDeduction(chosenCoins);
+            } else {
+                // Current Input cleaned, loop continues (to ask currentPlayer to choose coins again)
+                in.nextLine();
+                System.out.println(MSG_C_NOT_LEGAL);
+            }
+        } while (notValid);
+    }
+
+    // method to accept player input with only integer datatype
+    static void integerCheck(Scanner in, int coinRange) {
+        while (!in.hasNextInt()) {
+            System.out.println(MSG_C_NOT_INT);
+            in.nextLine();
+            System.out.print(String.format(MSG_CHOOSE_COINS_AGAIN, coinRange));
+        }
+    }
+
     // method to deduct coins and to save player's coin choice for the current heap
     static void coinDeduction(int chosenCoins) {
         // chosenCoins will be deducted from the chosenHeap
-        switch (chosenHeap) {
-            case 1:
-                heap1 -= chosenCoins;
-                // for reference (next player)
-                chosenCoinsPreviousPlayerHeap1 = chosenCoins;
-                break;
-            case 2:
-                heap2 -= chosenCoins;
-                chosenCoinsPreviousPlayerHeap2 = chosenCoins;
-                break;
-            case 3:
-                heap3 -= chosenCoins;
-                chosenCoinsPreviousPlayerHeap3 = chosenCoins;
-                break;
-            default:
-                System.out.println(MSG_LOGICAL_ERROR);
+        for (int i = 0; i < LEGAL_HEAP_CHOICE.length; i++) {
+            if (chosenHeap == LEGAL_HEAP_CHOICE[i]) {
+                heap[i] -= chosenCoins;
+                chosenCoinsPreviousPlayerHeap[i] = chosenCoins;
+            }
         }
     }
 }

@@ -6,27 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Assessment/FibonacciNim3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/ChapterExamples/C6DoubleMoney.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Exercises/Ch6Ex1Sqaures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Exercises/Ch6Ex4Multipliers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Exercises/Ch6Ex5Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/ForTesting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab3RoomHeating01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab4RichterScale02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab4RichterScale03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab4RoomHeating04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab4Time01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab5SignOffRoomHeating.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab5Stage1WhileVSFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab5Stage2WhileVsFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab5Stage3SumOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab5Stage4PatternBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/CS_110/Lab/Lab5Stage5EmptyBoxes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab4RoomHeating04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Lab/Lab4RoomHeating04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab4Time01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Lab/Lab4Stage1Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -99,13 +83,13 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab6ChallengeTask">
-    <configuration name="Lab6ChallengeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6ChallengeTask" />
+  <component name="RunManager" selected="Application.Lab7SignOffRoomHeating">
+    <configuration name="FibonacciNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
+          <option name="PATTERN" value="cs.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab6Stage1Squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6Stage1Squares" />
+    <configuration name="FibonacciNim2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.faltu.FibonacciNim2" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
+          <option name="PATTERN" value="cs.faltu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,25 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab6Stage2FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6Stage2FibonacciNumbers" />
+    <configuration name="FibonacciNim3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim3" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab6Stage3LargestAndSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6Stage3LargestAndSmallest" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
+          <option name="PATTERN" value="cs.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab7SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab7SignOffRoomHeating" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab6ChallengeTask" />
+        <item itemvalue="Application.Lab7SignOffRoomHeating" />
+        <item itemvalue="Application.FibonacciNim2" />
+        <item itemvalue="Application.FibonacciNim3" />
+        <item itemvalue="Application.FibonacciNim" />
         <item itemvalue="Application.Lab6Stage4ArrayList" />
-        <item itemvalue="Application.Lab6Stage3LargestAndSmallest" />
-        <item itemvalue="Application.Lab6Stage2FibonacciNumbers" />
-        <item itemvalue="Application.Lab6Stage1Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -380,15 +364,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6ChallengeTask.java</url>
-          <line>10</line>
-          <properties class="cs.Lab.Lab6ChallengeTask" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/C2Basics/ch15_3_nested_try_catch.java</url>
