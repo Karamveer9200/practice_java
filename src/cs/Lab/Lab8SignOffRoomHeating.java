@@ -21,6 +21,8 @@ public class Lab8SignOffRoomHeating {
     static final String DISP_INV_INPUT = "Invalid input, enter an integer between 1 - %d";
     static final String DISP_INV_INPUT_2 = "Invalid input";
 
+    // main method
+
     public static void main(String[] args) {
         ArrayList<Double> totalEnergyRequiredRoom = new ArrayList<>();
 
