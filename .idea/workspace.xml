@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7" />
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,20 @@
       </branch-storage>
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Karamveer9200"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4bcf5905-1536-4933-96a0-016bc13a69db" />
+        <option name="url" value="https://github.com/Karamveer9200/practice_java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/beginning/oops/basics/ch11_4_default_methods_and_interface_examples.java" root0="FORCE_HIGHLIGHTING" />
