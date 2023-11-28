@@ -1,0 +1,26 @@
+
+The break statement:
+Is not only used as part of the switch statement – it also has a more general meaning. Simplistically, if the
+command ‘break’ appears in a program, it means ‘jump to the first line of code immediately following ‘}’.
+You can see that’s exactly what break does in a switch – it causes execution to jump to the code following the
+switch, after the ‘}’ that ends the switch. (You can make break do more than this but there are even less good
+reasons for doing those things than the simple things so we'll skip them.)
+
+The continue Statement:
+Very similar to the break statement, the continue statement does not exit a loop, instead it jumps back to the loop
+condition test to see if the loop should continue. For example:
+
+int sum = 0;
+for(int i = 1; i <= 99 ; i++){
+    if(i % 2 == 0) {
+         continue; //<-- continue makes code go back to start of loop
+    }
+    sum += i;
+}
+
+This code adds up only the odd numbers between 1 and 99 – the if statement checks if the value of i is even, and
+if it is, the continue statement means it jumps straight back to the for statement, skipping the line sum += i;
+
+Structured Programming – and Why not to use break and continue
+These two statements look like the might come in handy – and very occasionally, they do. But more usually they
+cause problems.

@@ -1,0 +1,30 @@
+
+Creating/compiling a class inside a package in java:
+(class must contain package name inside i.e. package package_name; in the beginning)
+
+command 1: javac -d . class_name.java  (single class)
+
+command 2: javac -d . *.java            (all classes)
+
+ > the above command 1  will create a package directory
+ > inside that directory there will be our class file (class_name.class)
+ > command 2 will compile 'all classes' inside a directory to their respectable packages
+
+Running a class inside a package:
+
+command: java package_name.class_name
+(command should be executed outside the package directory)
+
+//----------------------------------------------------------
+
+Creating/compiling a class without a package in java: (class not containing package name inside)
+
+command: javac class_name.java
+
+Running a class with no package:
+
+command: java class_name
+
+//----------------------------------------------------------
+> We can also create packages inside a package.
+> These packages once created can be used by other classes.

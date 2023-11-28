@@ -1,0 +1,53 @@
+Command-line arguments are values or parameters that you can pass to a program when you run
+it from the command line or terminal. They provide a way to customize the behavior of a program
+or provide it with input data without having to modify the source code of the program itself.
+Command-line arguments are commonly used in command-line interfaces (CLI) and scripting.
+
+Here's how command-line arguments work:
+
+1. **Running a Program**: To run a program with command-line arguments, you typically open a
+command prompt or terminal and enter a command that specifies the program you want to run, followed
+ by one or more arguments.
+
+2. **Accessing Command-Line Arguments**: Within the program's code, you can access the command-line
+arguments provided by the user. These arguments are typically stored in an array or list-like data structure.
+
+3. **Using Command-Line Arguments**: The program can then use these arguments to customize its behavior
+ or process data provided by the user.
+
+For example, consider a simple command-line program in Java that calculates the sum of two numbers provided
+ as command-line arguments:
+
+public class AddNumbers {
+    public static void main(String[] args) {
+        if (args.length != 2) {
+            System.out.println("Usage: java AddNumbers <number1> <number2>");
+            return;
+        }
+
+        double num1 = Double.parseDouble(args[0]);
+        double num2 = Double.parseDouble(args[1]);
+
+        double sum = num1 + num2;
+        System.out.println("Sum: " + sum);
+    }
+}
+
+
+In this example:
+
+- `args` is an array of strings that holds the command-line arguments.
+- The program checks if exactly two arguments are provided. If not, it displays a usage message.
+- It then converts the two arguments to numbers, performs the addition, and prints the result.
+
+You can run this program from the command line as follows:
+
+'''terminal
+
+java AddNumbers 5.5 3.2
+
+
+In this case, `5.5` and `3.2` are the command-line arguments, and the program calculates and prints the sum `8.7`.
+
+Command-line arguments are a convenient way to make your programs more versatile and customizable, as users can
+ provide different inputs without needing to recompile or modify the code of the program itself.

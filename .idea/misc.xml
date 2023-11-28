@@ -1,5 +1,5 @@
 <project version="4">
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="20" project-jdk-type="JavaSDK">
-    <output url="file://$USER_HOME$/hello world/output" />
+    <output url="file://$PROJECT_DIR$/output" />
   </component>
 </project>

@@ -1,0 +1,22 @@
+Java has three basic ways of building loops:
+
+while loops – you use these when you 'don’t know' at the start of the loop how many times it will go around.
+
+do-while loops - you use these when you 'don’t know' at the start of the loop how many times it will go
+around but you do know it will be 'at least once'.
+
+for loops – you use these when you 'do know at the start' of the loop how many times it will go around.
+These also have a newer variant that we’ll get back to in a later chapter – usually called for-each loops.
+
+for-each loops - for-each loop is a loop that can only be used on a 'collection of items'. It will loop
+through the collection and each time through the loop it will use the next item from the collection. It
+starts with the first item in the array (the one at index 0) and continues through in order to the last
+item in the array.
+
+Programmers in Java (and other languages) understand that this is normally the convention – and so if they
+see a for loop they expect that it computes something where you know the number of iterations before the
+loop starts; and for a while loop, the opposite. This knowledge helps their understanding. Now, there are
+ a few cases later on where we’ll break this ‘rule’ – as with all professional skills, you will reach the
+ point where you have enough experience to know when rigidly sticking to "rules" means the results are not
+ as good as they could be. But in general, it’s something that helps understanding when reading programs
+ and you should normally stick to it.

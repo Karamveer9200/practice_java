@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -37,6 +38,20 @@
       </branch-storage>
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Karamveer9200"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4bcf5905-1536-4933-96a0-016bc13a69db" />
+        <option name="url" value="https://github.com/Karamveer9200/practice_java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/beginning/oops/basics/ch11_4_default_methods_and_interface_examples.java" root0="FORCE_HIGHLIGHTING" />
@@ -66,7 +81,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/Documents/Megasync/java_basics/intellij idea/hello world&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/basics/java/CheckStyle/inlinebrackets.xml&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -78,13 +93,13 @@
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Marks">
-    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.report_card.Marks" />
-      <module name="No Reward_learn to know" />
+  <component name="RunManager" selected="Application.Lab7SignOffRoomHeating">
+    <configuration name="FibonacciNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim" />
+      <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs_java.report_card.*" />
+          <option name="PATTERN" value="cs.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_0_inheritance_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch10_0_inheritance_01" />
-      <module name="No Reward_learn to know" />
+    <configuration name="FibonacciNim2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.faltu.FibonacciNim2" />
+      <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="PATTERN" value="cs.faltu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_practice" />
-      <module name="No Reward_learn to know" />
+    <configuration name="FibonacciNim3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim3" />
+      <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="PATTERN" value="cs.Assessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch10_practice" />
-      <module name="No Reward_learn to know" />
+    <configuration name="Lab6Stage4ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6Stage4ArrayList" />
+      <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
+          <option name="PATTERN" value="cs.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,64 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch11_5_inheritance_in_interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_5_inheritance_in_interfaces" />
-      <module name="No Reward_learn to know" />
+    <configuration name="Lab7SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab7SignOffRoomHeating" />
+      <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch11_6_polymorphism_in_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_6_polymorphism_in_interface" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch11_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_practice" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch11_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginning.oops.basics.ch11_practice" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginning.oops.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch2_operators_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs_java.basics.ch2_operators_02" />
-      <module name="No Reward_learn to know" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs_java.basics.*" />
+          <option name="PATTERN" value="cs.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Marks" />
-        <item itemvalue="Application.ch2_operators_02" />
-        <item itemvalue="Application.ch10_0_inheritance_01" />
-        <item itemvalue="Application.ch11_practice" />
-        <item itemvalue="Application.ch11_6_polymorphism_in_interface" />
+        <item itemvalue="Application.Lab7SignOffRoomHeating" />
+        <item itemvalue="Application.Lab6Stage4ArrayList" />
+        <item itemvalue="Application.FibonacciNim" />
+        <item itemvalue="Application.FibonacciNim3" />
+        <item itemvalue="Application.FibonacciNim2" />
       </list>
     </recent_temporary>
   </component>
@@ -309,5 +272,280 @@
     <MESSAGE value="nothing significant" />
     <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
     <option name="LAST_COMMIT_MESSAGE" value="changed chapter numbering ch10, added ch10_7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch7_methods_02_overloading.java</url>
+          <line>75</line>
+          <properties class="C2Basics.ch7_methods_02_overloading" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>36</line>
+          <properties class="C2Basics.Game" method="isCorrectInput">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>54</line>
+          <properties class="C2Basics.Game" method="SetNoOfGuesses">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>57</line>
+          <properties class="C2Basics.Game" method="GetNoOfGuesses">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch6_arrays_03.java</url>
+          <line>3</line>
+          <properties class="C2Basics.ch6_arrays_03" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/C1SearchAlgorithms/ch1_1_SearchInRange.java</url>
+          <line>5</line>
+          <properties class="C1SearchAlgorithms.ch1_1_SearchInRange" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs/Lab/ForTesting.java</url>
+          <line>3</line>
+          <properties class="cs.Lab.ForTesting" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab4RoomHeating04.java</url>
+          <line>18</line>
+          <properties class="cs.Lab.Lab4RoomHeating04" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs/Assessment/FibonacciNim2.java</url>
+          <line>68</line>
+          <properties class="cs.Assessment.FibonacciNim2" method="heapSelection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6Stage2FibonacciNumbers.java</url>
+          <line>3</line>
+          <properties class="cs.Lab.Lab6Stage2FibonacciNumbers" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6Stage3LargestAndSmallest.java</url>
+          <line>3</line>
+          <properties class="cs.Lab.Lab6Stage3LargestAndSmallest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch15_3_nested_try_catch.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch15_3_nested_try_catch.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch11_6_polymorphism_in_interface.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

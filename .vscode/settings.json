@@ -1,0 +1,3 @@
+{
+    "java.checkstyle.configuration": "${workspaceFolder}/src/CheckStyle/inlinebrackets.xml"
+}
