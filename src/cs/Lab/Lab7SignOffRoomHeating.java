@@ -87,6 +87,7 @@ public class Lab7SignOffRoomHeating {
             System.out.println("Room " + j + ": " + totalEnergyRequiredRoom.get(j));
         }
         System.out.println("Total energy required (all rooms): " + combinedEnergyAllRooms);
+        in.close();
     }
 
     // accept double input
