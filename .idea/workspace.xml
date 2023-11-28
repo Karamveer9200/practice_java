@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
-      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" afterDir="false" />
-    </list>
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="just testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +32,36 @@
               </list>
             </value>
           </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="testing" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/testing" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -250,7 +275,39 @@
       <option name="project" value="LOCAL" />
       <updated>1694383986380</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1701153253423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153253423</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1701153289042</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153289042</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1701153331458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153331458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="just testing">
+      <option name="closed" value="true" />
+      <created>1701153743884</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153743884</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +328,8 @@
     <MESSAGE value="added output path" />
     <MESSAGE value="nothing significant" />
     <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed chapter numbering ch10, added ch10_7" />
+    <MESSAGE value="just testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="just testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
