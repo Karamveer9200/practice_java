@@ -1,3 +1,4 @@
+package C2Basics.Ch7_Methods.Examples_2_CardNames;
 import java.util.Scanner;
 
 /**
@@ -16,10 +17,10 @@ class CardNames1 {
 		System.out.print("Enter a number between 1 and " + CARD_NAMES.length + ": ");
 		int cardVal = in.nextInt();
 		
-		System.out.println("That's a " + getCardName(cardVal));
+		//System.out.println("That's a " + getCardName(cardVal));
 	}
 	
-	public static String getCardName(int val) {
-		return CARD_NAMES[val - 1];
-	}
+//	public static String getCardName(int val) {
+//		return CARD_NAMES[val - 1];
+//	}
 }

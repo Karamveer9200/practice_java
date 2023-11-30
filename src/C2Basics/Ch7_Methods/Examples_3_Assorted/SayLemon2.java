@@ -1,3 +1,5 @@
+package C2Basics.Ch7_Methods.Examples_3_Assorted;
+
 //Version of Say Lemon using do loop
 import java.util.Scanner;
 
@@ -13,7 +15,7 @@ public class SayLemon2 {
 			System.out.println("lemon");
 			System.out.print("Say lemon again? ");
 			yesNo = in.nextLine();
-		}while(yesNo.equals("yes"));
+		}while (yesNo.equals("yes"));
 		
 		System.out.println("Bye..");
 	}
