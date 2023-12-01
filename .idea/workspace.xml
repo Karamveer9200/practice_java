@@ -4,7 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="just testing" />
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="added chapter on methods and its exampled">
+      <change afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage1Money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/FibonacciNimAdvanced.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/FibonacciNimBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/FibonacciNim3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Assessment/soultions/Screenshot 2023-11-15 at 20.47.56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/ChapterExamples/C6DoubleMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Exercises/Ch6Ex1Sqaures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Exercises/Ch6Ex4Multipliers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Exercises/Ch6Ex5Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/ForTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab3RoomHeating01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab4RichterScale02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab4RichterScale03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab4RoomHeating04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab4Stage1Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab5SignOffRoomHeating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab5Stage1WhileVSFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab5Stage2WhileVsFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab5Stage3SumOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab5Stage4PatternBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab5Stage5EmptyBoxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab6ChallengeTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab6SignOffRoomHeating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab6Stage1Squares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab6Stage2FibonacciNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab6Stage3LargestAndSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab6Stage4ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab7SignOffRoomHeating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab8SignOffRoomHeating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/Lab/Lab8Stage1Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/faltu/FibonacciNim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs/faltu/FibonacciNim2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment1/FibonacciNim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment1/FibonacciNim2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/FibonacciNim3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment1/FibonacciNim3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/soultions/FibonacciNimAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment1/Solutions/FibonacciNimAdvanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/soultions/FibonacciNimBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment1/Solutions/FibonacciNimBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Assessment/soultions/Screenshot 2023-11-15 at 20.47.56.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment1/Solutions/Screenshot 2023-11-15 at 20.47.56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/ChapterExamples/C6DoubleMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/ChapterExamples/C6DoubleMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Exercises/Ch6Ex1Sqaures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Exercises/Ch6Ex1Sqaures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Exercises/Ch6Ex4Multipliers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Exercises/Ch6Ex4Multipliers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Exercises/Ch6Ex5Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Exercises/Ch6Ex5Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/ForTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/ForTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab3RoomHeating01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab3RoomHeating01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab4RichterScale02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab4RichterScale02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab4RichterScale03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab4RichterScale03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab4RoomHeating04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab4RoomHeating04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab4Stage1Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab4Stage1Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab5SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab5SignOffRoomHeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab5Stage1WhileVSFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab5Stage1WhileVSFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab5Stage2WhileVsFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab5Stage2WhileVsFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab5Stage3SumOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab5Stage3SumOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab5Stage4PatternBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab5Stage4PatternBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab5Stage5EmptyBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab5Stage5EmptyBoxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab6ChallengeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab6ChallengeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab6SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab6SignOffRoomHeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab6Stage1Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab6Stage1Squares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab6Stage2FibonacciNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab6Stage2FibonacciNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab6Stage3LargestAndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab6Stage3LargestAndSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab6Stage4ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab6Stage4ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab7SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab7SignOffRoomHeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8SignOffRoomHeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8Stage1Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage1Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8Stage2Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/faltu/FibonacciNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/faltu/FibonacciNim2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,12 +135,12 @@
     </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Karamveer9200"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Karamveer9200&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -114,52 +185,16 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cs/Assessment/Assessment1/Solutions" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="oops_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab7SignOffRoomHeating">
-    <configuration name="FibonacciNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.Assessment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciNim2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.faltu.FibonacciNim2" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.faltu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciNim3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim3" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.Assessment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab6Stage4ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6Stage4ArrayList" />
+  <component name="RunManager" selected="Application.ch10_9_enum (2)">
+    <configuration name="Lab8Stage1Fruit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab8Stage1Fruit" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
@@ -171,12 +206,116 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab7SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab7SignOffRoomHeating" />
+    <configuration name="Lab8Stage1Fruit (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab8Stage1Fruit" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cs.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8Stage2ChessBoard (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8Stage2ChessBoard (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8Stage2ChessBoard (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8Stage2ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8Stage2ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_9_enum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_enum" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C2Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_9_enum (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_enum" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C2Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch10_9_enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_enum" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C2Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab7SignOffRoomHeating" />
-        <item itemvalue="Application.Lab6Stage4ArrayList" />
-        <item itemvalue="Application.FibonacciNim" />
-        <item itemvalue="Application.FibonacciNim3" />
-        <item itemvalue="Application.FibonacciNim2" />
+        <item itemvalue="Application.ch10_9_enum (2)" />
+        <item itemvalue="Application.ch10_9_enum (1)" />
+        <item itemvalue="Application.ch10_9_enum" />
+        <item itemvalue="Application.Lab8Stage2ChessBoard" />
+        <item itemvalue="Application.Lab8Stage2ChessBoard (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +446,31 @@
       <option name="project" value="LOCAL" />
       <updated>1701153743884</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="just testing">
+      <option name="closed" value="true" />
+      <created>1701153794560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153794560</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added chapter on methods and its exampled">
+      <option name="closed" value="true" />
+      <created>1701361522101</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701361522101</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added chapter on methods and its exampled">
+      <option name="closed" value="true" />
+      <created>1701361726786</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701361726786</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +492,8 @@
     <MESSAGE value="nothing significant" />
     <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
     <MESSAGE value="just testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="just testing" />
+    <MESSAGE value="added chapter on methods and its exampled" />
+    <option name="LAST_COMMIT_MESSAGE" value="added chapter on methods and its exampled" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -389,49 +553,85 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/ForTesting.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/ForTesting.java</url>
           <line>3</line>
-          <properties class="cs.Lab.ForTesting" method="main">
+          <properties class="cs110.Lab.ForTesting" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab4RoomHeating04.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab4RoomHeating04.java</url>
           <line>18</line>
-          <properties class="cs.Lab.Lab4RoomHeating04" method="main">
+          <properties class="cs110.Lab.Lab4RoomHeating04" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Assessment/FibonacciNim2.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Assessment/Assessment1/FibonacciNim2.java</url>
           <line>68</line>
-          <properties class="cs.Assessment.FibonacciNim2" method="heapSelection">
+          <properties class="cs110.Assessment.Assessment1.FibonacciNim2" method="heapSelection">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6Stage2FibonacciNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab6Stage2FibonacciNumbers.java</url>
           <line>3</line>
-          <properties class="cs.Lab.Lab6Stage2FibonacciNumbers" method="main">
+          <properties class="cs110.Lab.Lab6Stage2FibonacciNumbers" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6Stage3LargestAndSmallest.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab6Stage3LargestAndSmallest.java</url>
           <line>3</line>
-          <properties class="cs.Lab.Lab6Stage3LargestAndSmallest" method="main">
+          <properties class="cs110.Lab.Lab6Stage3LargestAndSmallest" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/Lab8Stage2ChessBoard.java</url>
+          <line>8</line>
+          <properties class="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java</url>
+          <line>7</line>
+          <properties class="cs110.Lab.Lab8Stage2ChessBoard.ChessBoard" method="setPiece">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java</url>
+          <line>72</line>
+          <properties class="cs110.Lab.Lab8Stage2ChessBoard.ChessBoard" method="displayBoard">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java</url>
+          <line>19</line>
+          <properties class="cs110.Lab.Lab8Stage2ChessBoard.ChessBoard" method="charToNum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/C2Basics/ch15_3_nested_try_catch.java</url>
@@ -602,6 +802,16 @@
           <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
           <line>24</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/Lab8Stage2ChessBoard.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
