@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="added chapter on methods and its exampled">
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="moved labs to separate packages and did lab8 signoff">
+      <change afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8/signOff/OutsideWall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8/signOff/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Lab/ForTesting.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Lab/Fruit.class" beforeDir="false" />
@@ -465,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701395926959</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="moved labs to separate packages and did lab8 signoff">
+      <option name="closed" value="true" />
+      <created>1701401439217</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701401439217</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +498,8 @@
     <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
     <MESSAGE value="just testing" />
     <MESSAGE value="added chapter on methods and its exampled" />
-    <option name="LAST_COMMIT_MESSAGE" value="added chapter on methods and its exampled" />
+    <MESSAGE value="moved labs to separate packages and did lab8 signoff" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved labs to separate packages and did lab8 signoff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
