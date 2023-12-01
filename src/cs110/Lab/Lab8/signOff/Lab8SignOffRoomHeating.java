@@ -13,6 +13,9 @@ public class Lab8SignOffRoomHeating {
     // main method
 
     public static void main(String[] args) {
+        double height;
+        double width;
+        double length;
         ArrayList<Double> totalEnergyRequiredRoom = new ArrayList<>();
 
         double totalEnergyPreviousRoom = 0;
@@ -28,28 +31,26 @@ public class Lab8SignOffRoomHeating {
              walls.uValueWall();
              window.uValueWindow();
 
+            // Room, Wall & Window dimensions
             System.out.println("Room height (meters): ");
-            double height = getDouble();
-            System.out.println("Room width (meters): ");
-            double width = getDouble();
+            height = getDouble();
+            System.out.println("Room width  (meters): ");
+            width = getDouble();
             System.out.println("Room length (meters): ");
-            double length = getDouble();
-            System.out.println("Window side a (meters): ");
-            double sideA = getDouble();
-            System.out.println("Window side b (meters): ");
-            double sideB = getDouble();
+            length = getDouble();
+
+            walls.setDimensions(height, width, length);
+            window.setDimensions();
 
             // Total outside walls
             walls.outsideWalls();
 
             // area calculation
-            walls.areaOfWalls(length, height, width, window.areaOfWindow(sideA, sideB));
-            window.areaOfWindow(sideA, sideB);
             double areaOfFloorOrCeiling = length * width;
 
             // heat-loss calculation
             double heatLossToFloor = areaOfFloorOrCeiling * U_VALUE_FLOORS * TEMP_DIFFERENCE;
-            double totalEnergyRequired = walls.heatLossWalls() + window.totalHeatLossWindow()
+            double totalEnergyRequired = walls.heatLossWalls(window.getAreaOfWindow()) + window.totalHeatLossWindow()
                     + heatLossToFloor;
 
             combinedEnergyAllRooms = totalEnergyRequired + totalEnergyPreviousRoom;
@@ -63,7 +64,7 @@ public class Lab8SignOffRoomHeating {
             System.out.println("do you want to calculate heat-loss data for another room? (y/n)");
             String choice;
             boolean notValid = true;
-            do {
+            while (notValid) {
                 choice = in.nextLine();
                 if (choice.equalsIgnoreCase("y") || choice.equalsIgnoreCase("n")) {
                     notValid = false;
@@ -73,7 +74,8 @@ public class Lab8SignOffRoomHeating {
                         System.out.println(DISP_INV_INPUT_2);
                     }
                 }
-            } while (notValid);
+            }
+
         } while (anotherRoom);
 
         // printing the total energy loss for all the rooms separately;

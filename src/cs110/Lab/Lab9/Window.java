@@ -1,8 +1,9 @@
-package cs110.Lab.Lab8.signOff;
+package cs110.Lab.Lab9;
 
 import java.util.Scanner;
 
 public class Window {
+    private int id;
     static final double U_VALUE_WINDOW_SINGLE_GLAZED = 5.7;
     static final double U_VALUE_WINDOW_DOUBLE_GLAZED = 3;
     static final double TEMP_DIFFERENCE = 22;
@@ -14,12 +15,34 @@ public class Window {
     private double sideB;
     private double uValueWindow;
 
-    public void setDimensions() {
-        System.out.println("Window side a (meters): ");
-        sideA = getDouble();
-        System.out.println("Window side b (meters): ");
-        sideB = getDouble();
+    // constructor for making objects with a loop
+    Window(int id) {
+        this.id = id;
+    }
 
+    // dimensions for the window
+    public void setDimensions(double roomHeight, int windowNumber) {
+        System.out.println("Dimensions for window" + (windowNumber + 1));
+
+        System.out.print("Window side a (meters): ");
+        sideA = validWindowSize(roomHeight);
+        System.out.print("Window side b (meters): ");
+        sideB = validWindowSize(roomHeight);
+    }
+
+  // checks if window height < wall height
+    private double validWindowSize(double roomHeight) {
+        double size;
+        boolean notValid = true;
+        do {
+            size = getDouble();
+            if (size < roomHeight) {
+                notValid = false;
+            }else {
+                System.out.println("Window height >= wall height !");
+            }
+        } while (notValid);
+        return size;
     }
 
     public double getAreaOfWindow() {
@@ -31,9 +54,10 @@ public class Window {
     }
 
     // to read an integer and figure out the window type
-    private int windowType() {
+    private int windowType(int windowNumber) {
         int windowT = 0;
         boolean isNotValid = true;
+        System.out.println("Window" + (windowNumber + 1));
         System.out.println("Select the window type:");
         System.out.println("1. Single Glazed");
         System.out.println("2. Double Glazed");
@@ -50,8 +74,8 @@ public class Window {
 
 
     // to figure out the U value of the window type
-    public void uValueWindow() {
-        double input = windowType();
+    public void uValueWindow(int windowNUmber) {
+        double input = windowType(windowNUmber);
         double uValue;
         if (input == 1) {
             uValue = U_VALUE_WINDOW_SINGLE_GLAZED;

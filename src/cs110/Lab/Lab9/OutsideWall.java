@@ -1,4 +1,4 @@
-package cs110.Lab.Lab8.signOff;
+package cs110.Lab.Lab9;
 
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class OutsideWall {
         this.length = length;
     }
 
-    public double getAreaOfWalls() {
+    private double getAreaOfWalls() {
         double lengthSide = (length * height) * lengthWalls;
         double widthSide = (width * height) * widthWalls;
         return lengthSide + widthSide;
@@ -50,8 +50,6 @@ public class OutsideWall {
         return returnValue;
     }
 
-
-
     // to read an integer and figure out the wall type
     private int wallType() {
         int wallT = 0;
@@ -72,7 +70,7 @@ public class OutsideWall {
     }
 
     // // to figure out the U value of the wall type
-     void uValueWall() {
+     public void uValueWall() {
         double uValue = 0;
         int input = wallType();
         switch (input) {
@@ -94,7 +92,7 @@ public class OutsideWall {
     // outside walls and what side wall
      public void outsideWalls() {
 
-        System.out.println("Total outside walls: ");
+        System.out.print("Total outside walls: ");
         int totalWalls = getInt();
         boolean notValid = true;
         int lengthSideWalls;
@@ -102,7 +100,7 @@ public class OutsideWall {
         if (totalWalls >= 1 && totalWalls <= 4) {
             switch (totalWalls) {
                 case 1:
-                    System.out.println("Total length-side walls: ");
+                    System.out.print("Total length-side walls: ");
                     do {
                         lengthSideWalls = getInt();
                         if (lengthSideWalls == 1) {
@@ -114,12 +112,12 @@ public class OutsideWall {
                             widthWalls = 1;
                             notValid = false;
                         } else {
-                            System.out.println("Not a legal number");
+                            System.out.print("Not a legal number");
                         }
                     } while (notValid);
                     break;
                 case 2:
-                    System.out.println("Total length-side walls: ");
+                    System.out.print("Total length-side walls: ");
                     do {
                         lengthSideWalls = getInt();
                         if (lengthSideWalls == 1) {
@@ -140,7 +138,7 @@ public class OutsideWall {
                     } while (notValid);
                     break;
                 case 3:
-                    System.out.println("Total length-side walls: ");
+                    System.out.print("Total length-side walls: ");
                     do {
                         lengthSideWalls = getInt();
                         if (lengthSideWalls == 1) {
