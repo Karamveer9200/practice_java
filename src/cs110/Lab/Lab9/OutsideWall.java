@@ -3,7 +3,8 @@ package cs110.Lab.Lab9;
 import java.util.Scanner;
 
 public class OutsideWall {
-    private int id;
+    private final int id;
+
     // constructor for making objects with a loop
     OutsideWall(int id) {
         this.id = id;

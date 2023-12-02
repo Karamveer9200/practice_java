@@ -4,14 +4,14 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class Room {
-    private int id;
+    private final int id;
     private String name;
     private double length;
     private double width;
     private double height;
 
-    private ArrayList<OutsideWall> outsideWalls = new ArrayList<>();
-    private ArrayList<Window> roomWindows = new ArrayList<>();
+    private final ArrayList<OutsideWall> outsideWalls = new ArrayList<>();
+    private final ArrayList<Window> roomWindows = new ArrayList<>();
 
     private static final double U_VALUE_FLOORS = 0.3;
     private static final int TEMP_DIFFERENCE = 22;

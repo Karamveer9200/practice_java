@@ -3,7 +3,7 @@ package cs110.Lab.Lab9;
 import java.util.Scanner;
 
 public class Window {
-    private int id;
+    private final int id;
     static final double U_VALUE_WINDOW_SINGLE_GLAZED = 5.7;
     static final double U_VALUE_WINDOW_DOUBLE_GLAZED = 3;
     static final double TEMP_DIFFERENCE = 22;
