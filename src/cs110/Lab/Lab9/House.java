@@ -47,7 +47,7 @@ public class House {
         // details of all the rooms
         int j = 0;
         for (Room all : residency) {
-            System.out.println(all + " " + heatLossAllRooms.get(j)+"W");
+            System.out.println(all.toString2() + " " + heatLossAllRooms.get(j)+"W");
             totalEnergyRequirement += heatLossAllRooms.get(j);
             j++;
         }

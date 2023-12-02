@@ -10,7 +10,7 @@ class Room {
     private double width;
     private double height;
 
-    private OutsideWall[] outsideWalls = new OutsideWall[1];
+    private ArrayList<OutsideWall> outsideWalls = new ArrayList<>();
     private ArrayList<Window> roomWindows = new ArrayList<>();
 
     private static final double U_VALUE_FLOORS = 0.3;
@@ -71,17 +71,34 @@ class Room {
             totalHeatLossWindows += all.totalHeatLossWindow();
             i++;
         }
-
     }
 
+    // to set the wall type, dimensions
     public void setWallType() {
-        OutsideWall wall1 = new OutsideWall();
-        outsideWalls[0] = wall1;
+        double totalWallLength= 0;
+        double periphery = 2 * length + 2 * width;
+        int totalWalls;
+        double totalArea = 0;
+        double uValuePlusTempDiff = 0;
+        double heatLossWalls = 0;
 
-        outsideWalls[0].uValueWall();
-        outsideWalls[0].setDimensions(height, width, length);
-        outsideWalls[0].outsideWalls();
-        totalHeatLossWalls = outsideWalls[0].heatLossWalls(totalAreaWindows);
+        System.out.println("Total walls <max 4>");
+        totalWalls = getInt();
+
+        for (int i = 0; i < totalWalls; i++) {
+            OutsideWall wall1 = new OutsideWall(i);
+            outsideWalls.add(wall1);
+            outsideWalls.get(i).uValueWall();
+            outsideWalls.get(i).setDimensions(height, periphery, totalWallLength);
+            totalWallLength= outsideWalls.get(i).getLength();
+        }
+        for (OutsideWall all : outsideWalls) {
+            totalArea += all.getAreaOfWalls();
+        }
+        for (OutsideWall all : outsideWalls) {
+            uValuePlusTempDiff += all.getUValue() * all.getTempDiff();
+        }
+        totalHeatLossWalls = (totalArea - totalAreaWindows) * uValuePlusTempDiff;
     }
 
     void heatLossFloorOrCeiling() {
@@ -91,6 +108,7 @@ class Room {
         totalHeatLossFloorOrCeiling = areaOfFloorOrCeiling * U_VALUE_FLOORS * TEMP_DIFFERENCE;
     }
 
+    // total heat-loss
     public double heatLossCalc() {
         totalHeatLoss = totalHeatLossWalls + totalHeatLossWindows + totalHeatLossFloorOrCeiling;
         return totalHeatLoss;
@@ -98,7 +116,11 @@ class Room {
 
     @Override
     public String toString() {
-        return "Total energy requirement of " + name + " is " + totalHeatLoss+"W";
+        return "Total energy requirement of " + name + " is " + totalHeatLoss + "W";
+    }
+
+    public String toString2() {
+        return "Total energy requirement of " + name + " is ";
     }
 
     static double getDouble() {

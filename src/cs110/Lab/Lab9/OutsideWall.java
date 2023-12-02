@@ -3,39 +3,68 @@ package cs110.Lab.Lab9;
 import java.util.Scanner;
 
 public class OutsideWall {
+    private int id;
+    // constructor for making objects with a loop
+    OutsideWall(int id) {
+        this.id = id;
+    }
     static final double U_VALUE_WALL_SOLID = 2;
     static final double U_VALUE_WALL_NO_INSULATION = 1;
     static final double U_VALUE_WALL_INSULATED = 0.5;
     static final double TEMP_DIFFERENCE = 22;
 
+
+    private double uValueWalls;
     private double height;
-    private double width;
     private double length;
-    // outside walls length-side
-    private static int lengthWalls;
-    // outside walls width-side
-    private static int widthWalls;
-    private static double uValueWalls;
 
     // String messages
     static final String DISP_INV_INPUT = "Invalid input, enter an integer between 1 - %d";
     static final String DISP_INV_INPUT_2 = "Invalid input";
 
-    public void setDimensions(double height, double width, double length) {
-        this.height = height;
-        this.width = width;
-        this.length = length;
+    public void setDimensions(double roomHeight, double periphery, double totalRoomLength) {
+        System.out.println("Room height: ");
+        height = validHeight(roomHeight);
+        System.out.println("Room length: ");
+        length = validLength(periphery, totalRoomLength);
     }
 
-    private double getAreaOfWalls() {
-        double lengthSide = (length * height) * lengthWalls;
-        double widthSide = (width * height) * widthWalls;
-        return lengthSide + widthSide;
+    public double getLength() {
+        return length;
     }
 
-    // heat-loss through walls , area of windows needed
-    double heatLossWalls(double areaOfWindow) {
-        return (getAreaOfWalls() - areaOfWindow) * uValueWalls * TEMP_DIFFERENCE;
+    // to input valid wall height
+    private double validHeight(double roomHeight) {
+        double size;
+        boolean notValid = true;
+        do {
+            size = getDouble();
+            if (size < roomHeight) {
+                notValid = false;
+            }else {
+                System.out.println("Wall height >= Room height !");
+            }
+        } while (notValid);
+        return size;
+    }
+
+   // to input valid wall length
+    private double validLength(double periphery, double totalWallLength) {
+        double size;
+        boolean notValid = true;
+        do {
+            size = getDouble();
+            if ((size + totalWallLength) < periphery) {
+                notValid = false;
+            }else {
+                System.out.println("Total wall length > room periphery  !");
+            }
+        } while (notValid);
+        return size;
+    }
+
+    public double getAreaOfWalls() {
+        return length * height;
     }
 
     // accept int input
@@ -47,6 +76,18 @@ public class OutsideWall {
             sc.nextLine();
         }
         returnValue = sc.nextInt();
+        return returnValue;
+    }
+
+    // accept double input
+    private double getDouble() {
+        double returnValue;
+        Scanner sc = new Scanner(System.in);
+        while (!sc.hasNextDouble()) {
+            System.out.println(DISP_INV_INPUT_2);
+            sc.nextLine();
+        }
+        returnValue = sc.nextDouble();
         return returnValue;
     }
 
@@ -89,81 +130,11 @@ public class OutsideWall {
         uValueWalls = uValue;
     }
 
-    // outside walls and what side wall
-     public void outsideWalls() {
+    public double getUValue() {
+        return uValueWalls;
+    }
 
-        System.out.print("Total outside walls: ");
-        int totalWalls = getInt();
-        boolean notValid = true;
-        int lengthSideWalls;
-
-        if (totalWalls >= 1 && totalWalls <= 4) {
-            switch (totalWalls) {
-                case 1:
-                    System.out.print("Total length-side walls: ");
-                    do {
-                        lengthSideWalls = getInt();
-                        if (lengthSideWalls == 1) {
-                            lengthWalls = 1;
-                            widthWalls = 0;
-                            notValid = false;
-                        } else if (lengthSideWalls == 0) {
-                            lengthWalls = 0;
-                            widthWalls = 1;
-                            notValid = false;
-                        } else {
-                            System.out.print("Not a legal number");
-                        }
-                    } while (notValid);
-                    break;
-                case 2:
-                    System.out.print("Total length-side walls: ");
-                    do {
-                        lengthSideWalls = getInt();
-                        if (lengthSideWalls == 1) {
-                            lengthWalls = 1;
-                            widthWalls = 1;
-                            notValid = false;
-                        } else if (lengthSideWalls == 2) {
-                            lengthWalls = 2;
-                            widthWalls = 0;
-                            notValid = false;
-                        } else if (lengthSideWalls == 0) {
-                            lengthWalls = 0;
-                            widthWalls = 2;
-                            notValid = false;
-                        } else {
-                            System.out.println("Not a legal number");
-                        }
-                    } while (notValid);
-                    break;
-                case 3:
-                    System.out.print("Total length-side walls: ");
-                    do {
-                        lengthSideWalls = getInt();
-                        if (lengthSideWalls == 1) {
-                            lengthWalls = 1;
-                            widthWalls = 2;
-                            notValid = false;
-                        } else if (lengthSideWalls == 2) {
-                            lengthWalls = 2;
-                            widthWalls = 0;
-                            notValid = false;
-                        } else {
-                            System.out.println("Not a legal number");
-                        }
-                    } while (notValid);
-                    break;
-                case 4:
-                    lengthWalls = 2;
-                    widthWalls = 2;
-                    break;
-                default:
-                    System.out.println("Some logical error");
-            }
-        } else {
-            System.out.println(DISP_INV_INPUT_2);
-            outsideWalls();
-        }
+    public double getTempDiff() {
+        return TEMP_DIFFERENCE;
     }
 }
