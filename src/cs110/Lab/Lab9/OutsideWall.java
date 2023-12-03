@@ -14,7 +14,6 @@ public class OutsideWall {
     static final double U_VALUE_WALL_INSULATED = 0.5;
     static final double TEMP_DIFFERENCE = 22;
 
-
     private double uValueWalls;
     private double height;
     private double length;

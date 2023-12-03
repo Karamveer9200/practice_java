@@ -31,7 +31,7 @@ class Room {
     }
 
     // set name
-    public void setName() {
+    public void setRoomName() {
         System.out.print("Room name: ");
         name = sc.next();
     }

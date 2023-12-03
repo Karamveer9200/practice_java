@@ -52,7 +52,6 @@ public class Window {
         return size;
     }
 
-
     private void setTotalAreaWindows() {
         totalAreaWindows += getAreaOfWindow();
     }

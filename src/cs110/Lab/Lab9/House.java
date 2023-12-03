@@ -15,7 +15,7 @@ public class House {
             Room types = new Room(i);
             residency.add(types);
 
-            types.setName();
+            types.setRoomName();
             types.setRoomDimensions();
             types.setWallType();
             types.setWindowType();
