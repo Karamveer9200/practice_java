@@ -20,8 +20,8 @@ public class House {
             types.setWallType();
             types.setWindowType();
             types.heatLossFloorOrCeiling();
-            types.heatLossCalc();
-            heatLossAllRooms.add(types.heatLossCalc());
+            types.totalHeatLoss();
+            heatLossAllRooms.add(types.totalHeatLoss());
             System.out.println(types);
             i++;
 

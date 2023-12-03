@@ -14,6 +14,9 @@ public class Window {
     private double sideA;
     private double sideB;
     private double uValueWindow;
+    private double heatLossWindow;
+    private static double totalHeatLossWindows = 0;
+    private static double totalAreaWindows = 0;
 
     // constructor for making objects with a loop
     Window(int id) {
@@ -28,6 +31,10 @@ public class Window {
         sideA = validWindowSize(roomHeight);
         System.out.print("Window side b (meters): ");
         sideB = validWindowSize(roomHeight);
+
+        setTotalAreaWindows();
+        setHeatLossWindow();
+        setTotalHeatLossWindow();
     }
 
   // checks if window height < wall height
@@ -45,12 +52,29 @@ public class Window {
         return size;
     }
 
-    public double getAreaOfWindow() {
+
+    private void setTotalAreaWindows() {
+        totalAreaWindows += getAreaOfWindow();
+    }
+
+    static double getTotalAreaWindows() {
+        return totalAreaWindows;
+    }
+
+    private double getAreaOfWindow() {
         return sideA * sideB;
     }
 
-   public double totalHeatLossWindow() {
-        return getAreaOfWindow() * uValueWindow * TEMP_DIFFERENCE;
+    private void setHeatLossWindow() {
+        heatLossWindow = getAreaOfWindow() * uValueWindow * TEMP_DIFFERENCE;
+    }
+
+    private void setTotalHeatLossWindow() {
+        totalHeatLossWindows += heatLossWindow;
+
+   }
+    static double getTotalHeatLossWindows() {
+        return totalHeatLossWindows;
     }
 
     // to read an integer and figure out the window type

@@ -16,14 +16,9 @@ class Room {
     private static final double U_VALUE_FLOORS = 0.3;
     private static final int TEMP_DIFFERENCE = 22;
 
-    private static double totalHeatLossWindows = 0;
     private static double totalHeatLossWalls = 0;
     private static double totalHeatLossFloorOrCeiling = 0;
-
     private static double totalHeatLoss;
-
-    private static double totalAreaWindows = 0;
-
 
     // string messages
     private static final String DISP_INV_INPUT_2 = "Invalid input";
@@ -61,14 +56,12 @@ class Room {
         for (int i = 0; i < totalWindows; i++) {
             Window allWindow = new Window(i);
             roomWindows.add(allWindow);
-
         }
+
         int i = 0;
         for (Window all : roomWindows) {
             all.uValueWindow(i);
             all.setDimensions(height, i);
-            totalAreaWindows += all.getAreaOfWindow();
-            totalHeatLossWindows += all.totalHeatLossWindow();
             i++;
         }
     }
@@ -78,27 +71,25 @@ class Room {
         double totalWallLength= 0;
         double periphery = 2 * length + 2 * width;
         int totalWalls;
-        double totalArea = 0;
         double uValuePlusTempDiff = 0;
         double heatLossWalls = 0;
 
-        System.out.println("Total walls <max 4>");
+        System.out.print("Total walls <max 4> : ");
         totalWalls = getInt();
 
         for (int i = 0; i < totalWalls; i++) {
-            OutsideWall wall1 = new OutsideWall(i);
-            outsideWalls.add(wall1);
+            OutsideWall wall = new OutsideWall(i);
+            outsideWalls.add(wall);
             outsideWalls.get(i).uValueWall();
             outsideWalls.get(i).setDimensions(height, periphery, totalWallLength);
             totalWallLength= outsideWalls.get(i).getLength();
         }
-        for (OutsideWall all : outsideWalls) {
-            totalArea += all.getAreaOfWalls();
-        }
+
         for (OutsideWall all : outsideWalls) {
             uValuePlusTempDiff += all.getUValue() * all.getTempDiff();
         }
-        totalHeatLossWalls = (totalArea - totalAreaWindows) * uValuePlusTempDiff;
+        totalHeatLossWalls = (OutsideWall.getTotalAreaOutsideWalls() - Window.getTotalAreaWindows())
+                * uValuePlusTempDiff;
     }
 
     void heatLossFloorOrCeiling() {
@@ -109,8 +100,8 @@ class Room {
     }
 
     // total heat-loss
-    public double heatLossCalc() {
-        totalHeatLoss = totalHeatLossWalls + totalHeatLossWindows + totalHeatLossFloorOrCeiling;
+    public double totalHeatLoss() {
+        totalHeatLoss = totalHeatLossWalls + Window.getTotalHeatLossWindows() + totalHeatLossFloorOrCeiling;
         return totalHeatLoss;
     }
 

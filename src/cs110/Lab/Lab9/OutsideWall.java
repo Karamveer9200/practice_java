@@ -19,15 +19,19 @@ public class OutsideWall {
     private double height;
     private double length;
 
+    private static double totalAreaOutsideWalls = 0;
+
     // String messages
     static final String DISP_INV_INPUT = "Invalid input, enter an integer between 1 - %d";
     static final String DISP_INV_INPUT_2 = "Invalid input";
 
     public void setDimensions(double roomHeight, double periphery, double totalRoomLength) {
-        System.out.println("Room height: ");
+        System.out.print("Wall height (meters): ");
         height = validHeight(roomHeight);
-        System.out.println("Room length: ");
+        System.out.print("Wall length (meters): ");
         length = validLength(periphery, totalRoomLength);
+
+        setAreaOfWalls();
     }
 
     public double getLength() {
@@ -64,8 +68,12 @@ public class OutsideWall {
         return size;
     }
 
-    public double getAreaOfWalls() {
-        return length * height;
+    private void setAreaOfWalls() {
+        totalAreaOutsideWalls += length * height;
+    }
+
+    static double getTotalAreaOutsideWalls() {
+        return totalAreaOutsideWalls;
     }
 
     // accept int input

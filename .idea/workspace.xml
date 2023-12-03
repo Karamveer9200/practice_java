@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="ususal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/House.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/OutsideWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/OutsideWall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Room.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Window.java" afterDir="false" />
@@ -157,73 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab8Stage1Fruit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab8Stage1Fruit" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab8Stage1Fruit (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab8Stage1Fruit" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab8Stage2ChessBoard (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab8Stage2ChessBoard (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab8Stage2ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch10_9_enum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_enum" />
+    <configuration name="ch10_9_Static_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_Static_Keyword" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
@@ -264,10 +200,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.House" />
+        <item itemvalue="Application.ch10_9_Static_Keyword" />
         <item itemvalue="Application.cs110.Lab.Lab9.Lab8SignOffRoomHeating" />
         <item itemvalue="Application.Lab8SignOffRoomHeating" />
         <item itemvalue="Application.ch10_9_enum (2)" />
-        <item itemvalue="Application.ch10_9_enum (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701490246845</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ususal">
+      <option name="closed" value="true" />
+      <created>1701561443611</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701561443611</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
