@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="ususal">
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code Lab9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/OutsideWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/OutsideWall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab9/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,21 +101,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Plugins Suggestion&quot;: &quot;Plugin suggestions available&quot;,
-    &quot;Notification.DoNotAsk-Plugins Suggestion&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/basics/java/CheckStyle/inlinebrackets.xml&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Plugins Suggestion": "Plugin suggestions available",
+    "Notification.DoNotAsk-Plugins Suggestion": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "testing",
+    "last_opened_file_path": "/home/karamveer-thinkpad/Documents/Source_code(Sync)/java_basics/intellij idea/hello java/src/cs110/Assessment/Assessment2/Level3",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3" />
+      <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level2" />
+      <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/cs/Assessment/Assessment1/Solutions" />
     </key>
@@ -131,13 +132,13 @@
       <recent name="cs110.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.House">
-    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab9.House" />
+  <component name="RunManager" selected="Application.AutoTestLevel3">
+    <configuration name="AutoTestLevel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level1.AutoTestLevel1" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs110.Lab.Lab9.*" />
+          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab8SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8.signOff.Lab8SignOffRoomHeating" />
+    <configuration name="AutoTestLevel2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level2.AutoTestLevel2" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs110.Lab.Lab9.*" />
+          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_9_Static_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_Static_Keyword" />
+    <configuration name="AutoTestLevel3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level3.AutoTestLevel3" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C2Basics.*" />
+          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch10_9_enum (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2Basics.ch10_9_enum" />
+    <configuration name="cs110.Assessment.Assessment2.Level1.testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level1.testing" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C2Basics.*" />
+          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cs110.Lab.Lab9.Lab8SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab9.Lab8SignOffRoomHeating" />
+    <configuration name="cs110.Assessment.Assessment2.Level3.testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level3.testing" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs110.Lab.Lab9.*" />
+          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.House" />
-        <item itemvalue="Application.ch10_9_Static_Keyword" />
-        <item itemvalue="Application.cs110.Lab.Lab9.Lab8SignOffRoomHeating" />
-        <item itemvalue="Application.Lab8SignOffRoomHeating" />
-        <item itemvalue="Application.ch10_9_enum (2)" />
+        <item itemvalue="Application.AutoTestLevel3" />
+        <item itemvalue="Application.cs110.Assessment.Assessment2.Level3.testing" />
+        <item itemvalue="Application.AutoTestLevel2" />
+        <item itemvalue="Application.AutoTestLevel1" />
+        <item itemvalue="Application.cs110.Assessment.Assessment2.Level1.testing" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +401,31 @@
       <option name="project" value="LOCAL" />
       <updated>1701561443611</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package">
+      <option name="closed" value="true" />
+      <created>1701567259465</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701567259465</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package">
+      <option name="closed" value="true" />
+      <created>1701567275012</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1701567275012</updated>
+    </task>
+    <task id="LOCAL-00026" summary="polished the code Lab9">
+      <option name="closed" value="true" />
+      <created>1701567451187</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1701567451187</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +450,9 @@
     <MESSAGE value="added chapter on methods and its exampled" />
     <MESSAGE value="moved labs to separate packages and did lab8 signoff" />
     <MESSAGE value="ususal" />
-    <option name="LAST_COMMIT_MESSAGE" value="ususal" />
+    <MESSAGE value="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package" />
+    <MESSAGE value="polished the code Lab9" />
+    <option name="LAST_COMMIT_MESSAGE" value="polished the code Lab9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
