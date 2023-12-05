@@ -87,18 +87,18 @@ public class Planet {
         for (Moon all : moon) {
             // when mass and diameter are 0 (not set)
             if (all.getMass().equals("0.00") && all.getDiameter() == 0) {
-                retString += all.getName() + " is " + Math.round(all.getDistance())
+                retString = retString.concat(all.getName() + " is " + Math.round(all.getDistance())
                         + " km from its planet, and orbits in "
-                        + getPeriod(all.getDistance(), correctionFactor) + " days\n";
+                        + getPeriod(all.getDistance(), correctionFactor) + " days\n");
             } else {
                 DecimalFormat decimalFormat = new DecimalFormat("#0.00");
-                retString += all.getName() + " is " + Math.round(all.getDistance())
+                retString = retString.concat(all.getName() + " is " + Math.round(all.getDistance())
                         + " km from it's planet, orbits in "
                         + getPeriod(all.getDistance(), correctionFactor) + " days, has a mass of "
                         + all.getMass() + " * 10e15 kg, a diameter of " + Math.round(all.getDiameter())
                         + " km, and a density of " + decimalFormat.format(all.getDensity())
                         + " g/cm^2 - it is probably "
-                        + all.getMoonType() + "\n";
+                        + all.getMoonType() + "\n");
             }
 
         }

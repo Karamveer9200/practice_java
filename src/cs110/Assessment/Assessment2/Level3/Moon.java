@@ -1,6 +1,7 @@
 package cs110.Assessment.Assessment2.Level3;
 
 import java.text.DecimalFormat;
+import java.util.Objects;
 
 public class Moon {
     private final String name;
@@ -71,7 +72,18 @@ public class Moon {
 
 
     // compares the name and distance of two moons
-    public boolean equals(Moon moon) {
-        return moon.getName().equals(this.name) && (moon.getDistance() == this.distance);
+   @Override
+    public boolean equals(Object obj) {
+        // checking the class of the parameter
+       if (obj == null || getClass() != obj.getClass()) {
+           return false;
+       }
+       Moon moon = (Moon) obj;
+       return moon.getName().equals(this.name) && (moon.getDistance() == this.distance);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, distance);
     }
 }
