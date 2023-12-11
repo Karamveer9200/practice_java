@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code assignment2/level3">
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code assignment2 + etc">
+      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Crypto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/LatitudeLongitude.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Rewriting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/SimpleChecksum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Crypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/LatitudeLongitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Rewriting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/SimpleChecksum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/etc/AutoTestLevel3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/etc/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs110/etc/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/faltu/FibonacciNim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/faltu/FibonacciNim2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim2.java" beforeDir="false" />
@@ -484,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701768653274</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="polished the code assignment2 + etc">
+      <option name="closed" value="true" />
+      <created>1702277146790</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1702277146790</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,7 +538,8 @@
     <MESSAGE value="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package" />
     <MESSAGE value="polished the code Lab9" />
     <MESSAGE value="polished the code assignment2/level3" />
-    <option name="LAST_COMMIT_MESSAGE" value="polished the code assignment2/level3" />
+    <MESSAGE value="polished the code assignment2 + etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="polished the code assignment2 + etc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
