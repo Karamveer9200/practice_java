@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code Lab9">
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code assignment2/level3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Moon.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Moon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Moon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,20 +104,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Plugins Suggestion&quot;: &quot;Plugin suggestions available&quot;,
-    &quot;Notification.DoNotAsk-Plugins Suggestion&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/Documents/Source_code(Sync)/java_basics/intellij idea/hello java/src/cs110/Assessment/Assessment2/Level3&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoTestLevel3.executor": "Run",
+    "Application.Crypto.executor": "Run",
+    "Application.LatitudeLongitude.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.Rewriting.executor": "Run",
+    "Application.SimpleChecksum.executor": "Run",
+    "Application.Time.executor": "Run",
+    "Application.cs110.Assessment.Assessment2.Level3.AutoTestLevel3.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Plugins Suggestion": "Plugin suggestions available",
+    "Notification.DoNotAsk-Plugins Suggestion": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "testing",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/karamveer-thinkpad/Documents/Source_code(Sync)/java_basics/intellij idea/hello java/src/cs110/Assessment/Assessment2/Level3",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3" />
@@ -137,60 +145,60 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.AutoTestLevel3">
-    <configuration name="AutoTestLevel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level1.AutoTestLevel1" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AutoTestLevel2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level2.AutoTestLevel2" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AutoTestLevel3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.etc.AutoTestLevel3" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.etc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crypto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.class_test.Crypto" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.class_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rewriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.class_test.Rewriting" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.class_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleChecksum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.class_test.SimpleChecksum" />
+      <module name="NR_LTK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs110.class_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cs110.Assessment.Assessment2.Level3.AutoTestLevel3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level3.AutoTestLevel3" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cs110.Assessment.Assessment2.Level1.testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level1.testing" />
-      <module name="NR_LTK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cs110.Assessment.Assessment2.Level3.testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level3.testing" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
@@ -205,12 +213,19 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.AutoTestLevel3" />
-        <item itemvalue="Application.AutoTestLevel2" />
-        <item itemvalue="Application.AutoTestLevel1" />
-        <item itemvalue="Application.cs110.Assessment.Assessment2.Level3.testing" />
-        <item itemvalue="Application.cs110.Assessment.Assessment2.Level1.testing" />
+        <item itemvalue="Application.cs110.Assessment.Assessment2.Level3.AutoTestLevel3" />
+        <item itemvalue="Application.SimpleChecksum" />
+        <item itemvalue="Application.Rewriting" />
+        <item itemvalue="Application.Crypto" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-8336523bb0d9-0b85dddc" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -453,7 +468,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701660972154</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="polished the code assignment2/level3">
+      <option name="closed" value="true" />
+      <created>1701768640454</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1701768640454</updated>
+    </task>
+    <task id="LOCAL-00031" summary="polished the code assignment2/level3">
+      <option name="closed" value="true" />
+      <created>1701768653274</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1701768653274</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +511,8 @@
     <MESSAGE value="ususal" />
     <MESSAGE value="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package" />
     <MESSAGE value="polished the code Lab9" />
-    <option name="LAST_COMMIT_MESSAGE" value="polished the code Lab9" />
+    <MESSAGE value="polished the code assignment2/level3" />
+    <option name="LAST_COMMIT_MESSAGE" value="polished the code assignment2/level3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

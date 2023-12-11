@@ -57,28 +57,32 @@ public class Planet {
 
     // returns the closest moon object
     public Moon closest() {
-        Moon closest = moon.get(0);
-        double closestDistance = moon.get(0).getDistance();
-        for (int i = 1; i < moon.size(); i++) {
-            if (moon.get(i).getDistance() < closestDistance) {
-                closestDistance = moon.get(i).getDistance();
-                closest = moon.get(i);
+        Moon closestMoon = moon.get(0);
+        double closestDistance = closestMoon.getDistance();
+
+        for (Moon currentMoon : moon) {
+            double currentDistance = currentMoon.getDistance();
+            if (currentDistance < closestDistance) {
+                closestDistance = currentDistance;
+                closestMoon = currentMoon;
             }
         }
-        return closest;
+        return closestMoon;
     }
 
     // returns the furthest moon object
     public Moon furthest() {
-        Moon furthest = moon.get(0);
-        double furthestDistance = moon.get(0).getDistance();
-        for (int i = 1; i < moon.size(); i++) {
-            if (moon.get(i).getDistance() > furthestDistance) {
-                furthestDistance = moon.get(i).getDistance();
-                furthest = moon.get(i);
+        Moon furthestMoon = moon.get(0);
+        double furthestDistance = furthestMoon.getDistance();
+
+        for (Moon currentMoon : moon) {
+            double currentDistance = currentMoon.getDistance();
+            if (currentDistance > furthestDistance) {
+                furthestDistance = currentDistance;
+                furthestMoon = currentMoon;
             }
         }
-        return furthest;
+        return furthestMoon;
     }
 
     @Override
@@ -87,18 +91,22 @@ public class Planet {
         for (Moon all : moon) {
             // when mass and diameter are 0 (not set)
             if (all.getMass().equals("0.00") && all.getDiameter() == 0) {
-                retString = retString.concat(all.getName() + " is " + Math.round(all.getDistance())
-                        + " km from its planet, and orbits in "
-                        + getPeriod(all.getDistance(), correctionFactor) + " days\n");
+                retString = retString.concat(String.format("%s is %d km from its planet, and orbits in %s days%n",
+                        all.getName(),
+                        Math.round(all.getDistance()),
+                        getPeriod(all.getDistance(), correctionFactor)));
             } else {
                 DecimalFormat decimalFormat = new DecimalFormat("#0.00");
-                retString = retString.concat(all.getName() + " is " + Math.round(all.getDistance())
-                        + " km from it's planet, orbits in "
-                        + getPeriod(all.getDistance(), correctionFactor) + " days, has a mass of "
-                        + all.getMass() + " * 10e15 kg, a diameter of " + Math.round(all.getDiameter())
-                        + " km, and a density of " + decimalFormat.format(all.getDensity())
-                        + " g/cm^2 - it is probably "
-                        + all.getMoonType() + "\n");
+                retString = retString.concat(String.format("%s is %d km from it's planet, orbits in %s days,"
+                                + " has a mass of %s * 10e15 kg, a diameter of %s km, and a density of %s g/cm^2 - "
+                                + "it is probably %s%n",
+                        all.getName(),
+                        Math.round(all.getDistance()),
+                        getPeriod(all.getDistance(), correctionFactor),
+                        all.getMass(),
+                        Math.round(all.getDiameter()),
+                        decimalFormat.format(all.getDensity()),
+                        all.getMoonType()));
             }
 
         }
