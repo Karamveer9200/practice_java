@@ -2,75 +2,89 @@ package cs110.etc;
 
 import java.text.DecimalFormat;
 
+// The Moon class
 public class Moon {
-    private final String name;
-    private final double distance;
+    // moon's private details
+    private String moonName;
+    private double distanceFromEarth;
+    private double radius;
     private double mass;
     private double diameter;
+    private double density;
 
-    // ...
-    public Moon(String bodyName, double distanceFromEarth) {
-        name = bodyName;
-        distance = distanceFromEarth;
+    // oon name and distance introduction method
+    public Moon(String name, double distance) {
+        // Assigning the moon's name and distance
+        moonName = name;
+        distanceFromEarth = distance;
     }
 
-    // ...
-    public Moon(String bodyName, double distanceFromEarth, double ms, double dmtr) {
-        name = bodyName;
-        distance = distanceFromEarth;
-        mass = ms;
-        diameter = dmtr;
+    // more detailed moon introduction method
+    public Moon(String name, double distance, double moonMass, double moonDiameter) {
+        // Assigning the moon's name, distance, mass, and diameter
+        moonName = name;
+        distanceFromEarth = distance;
+        mass = moonMass;
+        diameter = moonDiameter;
+        radius = diameter/2;
+
+        // math to find the density
+        density = mass / (Math.PI * 4/3f * (radius * radius * radius)) * 10e2;
     }
 
-    // ...
-    public String getName() {
-        return name;
+    // This method gives you the moon's name
+    public String name() {
+        return moonName;
     }
 
-    // ...
-    public double getDistance() {
-        return distance;
+    // This method gives you the moon's distance
+    public double distance() {
+        return distanceFromEarth;
     }
 
-    // ...
-    public String getMass() {
+    // This method gives you the moon's mass with only two decimal places
+    public String mass() {
+        String value;
         DecimalFormat decimalFormat = new DecimalFormat("#0.00");
-        return decimalFormat.format(mass);
+        value = decimalFormat.format(mass);
+        return value;
     }
 
-    // ...
-    public double getDiameter() {
+    // This method gives you the moon's diameter
+    public double diameter() {
         return diameter;
     }
 
-    // ...
-    public double getDensity() {
-        double radius = diameter / 2;
-        final double fourByThree = 4/3f;
-        final double tenE2 = 10E2;
-        double density = mass / (Math.PI * fourByThree * (radius * radius * radius)) * tenE2;
-
+    // This method gives you the moon's density
+    public double density() {
         return density;
     }
 
-    // ...
-    public String getBodyType() {
-        final double ice = 0.9;
-        final double rock = 2;
-        String bodyType = null;
+    // This method tells you if the moon is mostly ice, rock, or a mix
+    public String composition() {
+        final double iceThreshold = 0.9;
+        final int rockThreshold = 2;
+        double currentDensity = density();
+        String type = null;
 
-        if (getDensity() < ice) {
-            bodyType = "mostly ice";
-        } else if (getDensity() > rock) {
-            bodyType = "mostly rock";
-        } else if (getDensity() >= ice && getDensity() <= rock) {
-            bodyType = "a mixture of rock and ice";
+        // To figure out the type based on the density
+        if (currentDensity < iceThreshold) {
+            type = "mostly ice";
+        } else if (currentDensity > rockThreshold) {
+            type = "mostly rock";
+        } else if (currentDensity > iceThreshold && currentDensity < rockThreshold) {
+            type = "a mix of rock and ice";
         }
-        return bodyType;
+        return type;
     }
 
-    // ...
-    public boolean equals(Moon celestialBody) {
-        return celestialBody.getName().equals(name) && (celestialBody.getDistance() == distance);
+    // This method checks if two moons are the same based on name and distance
+    public boolean equals(Moon otherMoon) {
+        boolean isEqual = false;
+        // If the names and distances are the same, then the moons are equal
+        if (otherMoon.name().equals(moonName) && (otherMoon.distance() == distanceFromEarth)) {
+            isEqual = true;
+        }
+        return isEqual;
     }
 }

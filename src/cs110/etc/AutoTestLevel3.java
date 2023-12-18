@@ -139,28 +139,28 @@ public class AutoTestLevel3 {
         if (jupiter.closest().equals(fakeJupiter.getMoonByName("Metis"))) {
             System.out.println("Jupiter closest correct!");
         } else {
-            System.out.println("Jupiter closest failed: You said " + jupiter.closest().getName() + " but it should be "
-                    + fakeJupiter.getMoonByName("Metis").getName());
+            System.out.println("Jupiter closest failed: You said " + jupiter.closest().name() + " but it should be "
+                    + fakeJupiter.getMoonByName("Metis").name());
         }
         if (jupiter.furthest().equals(fakeJupiter.getMoonByName("Pasiphae"))) {
             System.out.println("Jupiter furthest correct!");
         } else {
-            System.out.println("Jupiter furthest failed: You said " + jupiter.furthest().getName()
+            System.out.println("Jupiter furthest failed: You said " + jupiter.furthest().name()
                     + " but it should be "
-                    + fakeJupiter.getMoonByName("Pasiphae").getName());
+                    + fakeJupiter.getMoonByName("Pasiphae").name());
         }
 
         if (saturn.closest().equals(fakeSaturn.getMoonByName("Pan"))) {
             System.out.println("Saturn closest correct!");
         } else {
-            System.out.println("Saturn closest failed: You said " + saturn.closest().getName() + " but it should be "
-                    + fakeSaturn.getMoonByName("Pan").getName());
+            System.out.println("Saturn closest failed: You said " + saturn.closest().name() + " but it should be "
+                    + fakeSaturn.getMoonByName("Pan").name());
         }
         if (saturn.furthest().equals(fakeSaturn.getMoonByName("S/2004 S 24"))) {
             System.out.println("Saturn furthest correct!");
         } else {
-            System.out.println("Saturn furthest failed: You said " + saturn.furthest().getName() + " but it should be "
-                    + fakeSaturn.getMoonByName("S/2004 S 24").getName());
+            System.out.println("Saturn furthest failed: You said " + saturn.furthest().name() + " but it should be "
+                    + fakeSaturn.getMoonByName("S/2004 S 24").name());
         }
 
         //Re-initialise the planets for a 'new' set of moons
@@ -234,31 +234,31 @@ public class AutoTestLevel3 {
         if (jupiter.closest().equals(fakeJupiter.getMoonByName("Metis"))) {
             System.out.println("Level 3: Jupiter closest correct!");
         } else {
-            System.out.println("Level 3: Jupiter closest failed: You said " + jupiter.closest().getName()
+            System.out.println("Level 3: Jupiter closest failed: You said " + jupiter.closest().name()
                     + " but it should be "
-                    + fakeJupiter.getMoonByName("Metis").getName());
+                    + fakeJupiter.getMoonByName("Metis").name());
         }
         if (jupiter.furthest().equals(fakeJupiter.getMoonByName("Pasiphae"))) {
             System.out.println("Level 3: Jupiter furthest correct!");
         } else {
-            System.out.println("Level 3: Jupiter furthest failed: You said " + jupiter.furthest().getName()
+            System.out.println("Level 3: Jupiter furthest failed: You said " + jupiter.furthest().name()
                     + " but it should be "
-                    + fakeJupiter.getMoonByName("Pasiphae").getName());
+                    + fakeJupiter.getMoonByName("Pasiphae").name());
         }
 
         if (saturn.closest().equals(fakeSaturn.getMoonByName("Pan"))) {
             System.out.println("Level 3: Saturn closest correct!");
         } else {
-            System.out.println("Level 3: Saturn closest failed: You said " + saturn.closest().getName()
+            System.out.println("Level 3: Saturn closest failed: You said " + saturn.closest().name()
                     + " but it should be "
-                    + fakeSaturn.getMoonByName("Pan").getName());
+                    + fakeSaturn.getMoonByName("Pan").name());
         }
         if (saturn.furthest().equals(fakeSaturn.getMoonByName("S/2004 S 24"))) {
             System.out.println("Level 3: Saturn furthest correct!");
         } else {
-            System.out.println("Level 3: Saturn furthest failed: You said " + saturn.furthest().getName()
+            System.out.println("Level 3: Saturn furthest failed: You said " + saturn.furthest().name()
                     + " but it should be "
-                    + fakeSaturn.getMoonByName("S/2004 S 24").getName());
+                    + fakeSaturn.getMoonByName("S/2004 S 24").name());
         }
     }
 

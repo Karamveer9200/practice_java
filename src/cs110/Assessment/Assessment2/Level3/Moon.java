@@ -6,8 +6,8 @@ import java.util.Objects;
 public class Moon {
     private final String name;
     private final double distance;
-    private double mass = 0;
-    private double diameter = 0;
+    private double mass;
+    private double diameter;
 
 
     // constructor to assign name and distance
@@ -74,8 +74,8 @@ public class Moon {
     // compares the name and distance of two moons
    @Override
     public boolean equals(Object obj) {
-        // checking the class of the parameter
-       if (obj == null || getClass() != obj.getClass()) {
+        // checking if obj is an instance of class Moon
+       if (!(obj instanceof Moon)) {
            return false;
        }
        Moon moon = (Moon) obj;

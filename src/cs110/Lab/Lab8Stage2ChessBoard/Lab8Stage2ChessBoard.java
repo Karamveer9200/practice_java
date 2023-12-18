@@ -1,6 +1,5 @@
 package cs110.Lab.Lab8Stage2ChessBoard;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab8Stage2ChessBoard {

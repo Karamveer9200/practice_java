@@ -5,28 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code assignment2 + etc">
-      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Crypto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/LatitudeLongitude.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Numbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Rewriting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/SimpleChecksum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/class_test/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Crypto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/LatitudeLongitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Rewriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/SimpleChecksum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/class_test/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/etc/AutoTestLevel3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/etc/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs110/etc/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Moon.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Moon.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/faltu/FibonacciNim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/AutoTestLevel3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/AutoTestLevel3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Moon.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Moon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Planet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/faltu/FibonacciNim2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs110/faltu/FibonacciNim2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessPieces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessPieces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/etc/AutoTestLevel3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/etc/AutoTestLevel3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/etc/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/etc/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/etc/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/etc/Planet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,11 +117,14 @@
   "keyToString": {
     "Application.AutoTestLevel3.executor": "Run",
     "Application.Crypto.executor": "Run",
+    "Application.House.executor": "Run",
+    "Application.Lab8Stage2ChessBoard.executor": "Run",
     "Application.LatitudeLongitude.executor": "Run",
     "Application.Numbers.executor": "Run",
     "Application.Rewriting.executor": "Run",
     "Application.SimpleChecksum.executor": "Run",
     "Application.Time.executor": "Run",
+    "Application.Unicode.executor": "Run",
     "Application.cs110.Assessment.Assessment2.Level3.AutoTestLevel3.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Plugins Suggestion": "Plugin suggestions available",
     "Notification.DoNotAsk-Plugins Suggestion": "true",
@@ -162,7 +156,7 @@
       <recent name="cs110.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AutoTestLevel3">
+  <component name="RunManager" selected="Application.Lab8Stage2ChessBoard">
     <configuration name="AutoTestLevel3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs110.etc.AutoTestLevel3" />
       <module name="NR_LTK" />
@@ -176,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Crypto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.class_test.Crypto" />
+    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab9.House" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs110.class_test.*" />
+          <option name="PATTERN" value="cs110.Lab.Lab9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rewriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.class_test.Rewriting" />
+    <configuration name="Lab8Stage2ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs110.class_test.*" />
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleChecksum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs110.class_test.SimpleChecksum" />
+    <configuration name="Unicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Unicode" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs110.class_test.*" />
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AutoTestLevel3" />
+        <item itemvalue="Application.Lab8Stage2ChessBoard" />
+        <item itemvalue="Application.Unicode" />
+        <item itemvalue="Application.House" />
         <item itemvalue="Application.cs110.Assessment.Assessment2.Level3.AutoTestLevel3" />
-        <item itemvalue="Application.SimpleChecksum" />
-        <item itemvalue="Application.Rewriting" />
-        <item itemvalue="Application.Crypto" />
+        <item itemvalue="Application.AutoTestLevel3" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702277146790</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="polished the code assignment2 + etc">
+      <option name="closed" value="true" />
+      <created>1702277160580</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1702277160580</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

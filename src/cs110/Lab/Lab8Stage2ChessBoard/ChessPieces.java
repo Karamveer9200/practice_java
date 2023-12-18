@@ -2,20 +2,20 @@ package cs110.Lab.Lab8Stage2ChessBoard;
 
 enum ChessPieces {
 
-    PAWN_WHITE("p(W)"),
-    KING_WHITE("K(W)"),
-    QUEEN_WHITE("Q(W)"),
-    ROOK_WHITE("R(W)"),
-    KNIGHT_WHITE("K(W)"),
-    BISHOP_WHITE("B(W)"),
-    PAWN_BLACK("p(B)"),
-    KING_BLACK("K(B)"),
-    QUEEN_BLACK("Q(B)"),
-    ROOK_BLACK("R(B)"),
-    KNIGHT_BLACK("K(B)"),
-    BISHOP_BLACK("B(B)");
+    PAWN_WHITE("♙"),
+    KING_WHITE("♔"),
+    QUEEN_WHITE("♕"),
+    ROOK_WHITE("♖"),
+    KNIGHT_WHITE("♘"),
+    BISHOP_WHITE("♗"),
+    PAWN_BLACK("♟"),
+    KING_BLACK("♚"),
+    QUEEN_BLACK("♛"),
+    ROOK_BLACK("♜"),
+    KNIGHT_BLACK("♞"),
+    BISHOP_BLACK("♝");
 
-    private String indicator;
+    private final String indicator;
     ChessPieces(String indicator) {
         this.indicator = indicator;
 
