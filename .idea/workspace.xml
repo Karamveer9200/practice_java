@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="changed chapter numbering ch10, added ch10_7">
-      <change beforePath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/Lab/Lab8SignOffRoomHeating.java" afterDir="false" />
+    <list default="true" id="b88061c8-97ad-4e82-8a90-c13a63dea38d" name="Changes" comment="polished the code assignment2 + etc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Moon.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Moon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/Assessment/Assessment2/Level3/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/AutoTestLevel3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/AutoTestLevel3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Moon.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Moon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/NR_LTK/cs110/etc/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/NR_LTK/cs110/faltu/FibonacciNim2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessPieces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/Lab/Lab8Stage2ChessBoard/ChessPieces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/etc/AutoTestLevel3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/etc/AutoTestLevel3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/etc/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/etc/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs110/etc/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs110/etc/Planet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +46,44 @@
               </list>
             </value>
           </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="testing" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/testing" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Karamveer9200"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Karamveer9200&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -74,32 +113,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Plugins Suggestion&quot;: &quot;Plugin suggestions available&quot;,
-    &quot;Notification.DoNotAsk-Plugins Suggestion&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;testing&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/karamveer-thinkpad/basics/java/CheckStyle/inlinebrackets.xml&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoTestLevel3.executor": "Run",
+    "Application.Crypto.executor": "Run",
+    "Application.House.executor": "Run",
+    "Application.Lab8Stage2ChessBoard.executor": "Run",
+    "Application.LatitudeLongitude.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.Rewriting.executor": "Run",
+    "Application.SimpleChecksum.executor": "Run",
+    "Application.Time.executor": "Run",
+    "Application.Unicode.executor": "Run",
+    "Application.cs110.Assessment.Assessment2.Level3.AutoTestLevel3.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Plugins Suggestion": "Plugin suggestions available",
+    "Notification.DoNotAsk-Plugins Suggestion": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "testing",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/karamveer-thinkpad/Documents/Source_code(Sync)/java_basics/intellij idea/hello java/src/cs110/Assessment/Assessment2/Level3",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level3" />
+      <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level2" />
+      <recent name="$PROJECT_DIR$/src/cs110/Assessment/Assessment2/Level1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cs/Assessment/Assessment1/Solutions" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="oops_java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cs110.Lab.Lab9" />
+      <recent name="cs110.Lab" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Lab7SignOffRoomHeating">
-    <configuration name="FibonacciNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim" />
+  <component name="RunManager" selected="Application.Lab8Stage2ChessBoard">
+    <configuration name="AutoTestLevel3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.etc.AutoTestLevel3" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Assessment.*" />
+          <option name="PATTERN" value="cs110.etc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciNim2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.faltu.FibonacciNim2" />
+    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab9.House" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.faltu.*" />
+          <option name="PATTERN" value="cs110.Lab.Lab9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciNim3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Assessment.FibonacciNim3" />
+    <configuration name="Lab8Stage2ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Lab8Stage2ChessBoard" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Assessment.*" />
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab6Stage4ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab6Stage4ArrayList" />
+    <configuration name="Unicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Lab.Lab8Stage2ChessBoard.Unicode" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
+          <option name="PATTERN" value="cs110.Lab.Lab8Stage2ChessBoard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab7SignOffRoomHeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.Lab.Lab7SignOffRoomHeating" />
+    <configuration name="cs110.Assessment.Assessment2.Level3.AutoTestLevel3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs110.Assessment.Assessment2.Level3.AutoTestLevel3" />
       <module name="NR_LTK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs.Lab.*" />
+          <option name="PATTERN" value="cs110.Assessment.Assessment2.Level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,13 +224,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab7SignOffRoomHeating" />
-        <item itemvalue="Application.Lab6Stage4ArrayList" />
-        <item itemvalue="Application.FibonacciNim" />
-        <item itemvalue="Application.FibonacciNim3" />
-        <item itemvalue="Application.FibonacciNim2" />
+        <item itemvalue="Application.Lab8Stage2ChessBoard" />
+        <item itemvalue="Application.Unicode" />
+        <item itemvalue="Application.House" />
+        <item itemvalue="Application.cs110.Assessment.Assessment2.Level3.AutoTestLevel3" />
+        <item itemvalue="Application.AutoTestLevel3" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-8336523bb0d9-0b85dddc" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -250,7 +320,199 @@
       <option name="project" value="LOCAL" />
       <updated>1694383986380</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1701153253423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153253423</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1701153289042</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153289042</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed chapter numbering ch10, added ch10_7">
+      <option name="closed" value="true" />
+      <created>1701153331458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153331458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="just testing">
+      <option name="closed" value="true" />
+      <created>1701153743884</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153743884</updated>
+    </task>
+    <task id="LOCAL-00014" summary="just testing">
+      <option name="closed" value="true" />
+      <created>1701153794560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701153794560</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added chapter on methods and its exampled">
+      <option name="closed" value="true" />
+      <created>1701361522101</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701361522101</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added chapter on methods and its exampled">
+      <option name="closed" value="true" />
+      <created>1701361726786</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701361726786</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added chapter on methods and its exampled">
+      <option name="closed" value="true" />
+      <created>1701395892394</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1701395892394</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added chapter on methods and its exampled">
+      <option name="closed" value="true" />
+      <created>1701395926959</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701395926959</updated>
+    </task>
+    <task id="LOCAL-00019" summary="moved labs to separate packages and did lab8 signoff">
+      <option name="closed" value="true" />
+      <created>1701401439217</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701401439217</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ususal">
+      <option name="closed" value="true" />
+      <created>1701401460071</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701401460071</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ususal">
+      <option name="closed" value="true" />
+      <created>1701420674500</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701420674500</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ususal">
+      <option name="closed" value="true" />
+      <created>1701490246845</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701490246845</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ususal">
+      <option name="closed" value="true" />
+      <created>1701561443611</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701561443611</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package">
+      <option name="closed" value="true" />
+      <created>1701567259465</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701567259465</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package">
+      <option name="closed" value="true" />
+      <created>1701567275012</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1701567275012</updated>
+    </task>
+    <task id="LOCAL-00026" summary="polished the code Lab9">
+      <option name="closed" value="true" />
+      <created>1701567451187</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1701567451187</updated>
+    </task>
+    <task id="LOCAL-00027" summary="polished the code Lab9">
+      <option name="closed" value="true" />
+      <created>1701660946897</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1701660946897</updated>
+    </task>
+    <task id="LOCAL-00028" summary="polished the code Lab9">
+      <option name="closed" value="true" />
+      <created>1701660960980</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1701660960980</updated>
+    </task>
+    <task id="LOCAL-00029" summary="polished the code Lab9">
+      <option name="closed" value="true" />
+      <created>1701660972154</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1701660972154</updated>
+    </task>
+    <task id="LOCAL-00030" summary="polished the code assignment2/level3">
+      <option name="closed" value="true" />
+      <created>1701768640454</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1701768640454</updated>
+    </task>
+    <task id="LOCAL-00031" summary="polished the code assignment2/level3">
+      <option name="closed" value="true" />
+      <created>1701768653274</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1701768653274</updated>
+    </task>
+    <task id="LOCAL-00032" summary="polished the code assignment2 + etc">
+      <option name="closed" value="true" />
+      <created>1702277146790</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1702277146790</updated>
+    </task>
+    <task id="LOCAL-00033" summary="polished the code assignment2 + etc">
+      <option name="closed" value="true" />
+      <created>1702277160580</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1702277160580</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +533,15 @@
     <MESSAGE value="added output path" />
     <MESSAGE value="nothing significant" />
     <MESSAGE value="changed chapter numbering ch10, added ch10_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed chapter numbering ch10, added ch10_7" />
+    <MESSAGE value="just testing" />
+    <MESSAGE value="added chapter on methods and its exampled" />
+    <MESSAGE value="moved labs to separate packages and did lab8 signoff" />
+    <MESSAGE value="ususal" />
+    <MESSAGE value="added static methods and fields in Lab 9 classes,  also added chapter 10_9 on static methods in c2Basics package" />
+    <MESSAGE value="polished the code Lab9" />
+    <MESSAGE value="polished the code assignment2/level3" />
+    <MESSAGE value="polished the code assignment2 + etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="polished the code assignment2 + etc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,45 +601,45 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/ForTesting.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab3/ForTesting.java</url>
           <line>3</line>
-          <properties class="cs.Lab.ForTesting" method="main">
+          <properties class="cs110.Lab.Lab3.ForTesting" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab4RoomHeating04.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab4/Lab4RoomHeating04.java</url>
           <line>18</line>
-          <properties class="cs.Lab.Lab4RoomHeating04" method="main">
+          <properties class="cs110.Lab.Lab4.Lab4RoomHeating04" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Assessment/FibonacciNim2.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Assessment/Assessment1/FibonacciNim2.java</url>
           <line>68</line>
-          <properties class="cs.Assessment.FibonacciNim2" method="heapSelection">
+          <properties class="cs110.Assessment.Assessment1.FibonacciNim2" method="heapSelection">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6Stage2FibonacciNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab6/Lab6Stage2FibonacciNumbers.java</url>
           <line>3</line>
-          <properties class="cs.Lab.Lab6Stage2FibonacciNumbers" method="main">
+          <properties class="cs110.Lab.Lab6.Lab6Stage2FibonacciNumbers" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/cs/Lab/Lab6Stage3LargestAndSmallest.java</url>
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab6/Lab6Stage3LargestAndSmallest.java</url>
           <line>3</line>
-          <properties class="cs.Lab.Lab6Stage3LargestAndSmallest" method="main">
+          <properties class="cs110.Lab.Lab6.Lab6Stage3LargestAndSmallest" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -544,6 +814,11 @@
           <url>file://$PROJECT_DIR$/src/C2Basics/ch9_exercise_guess_the_number.java</url>
           <line>24</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs110/Lab/Lab8/signOff/OutsideWall.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="113" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
